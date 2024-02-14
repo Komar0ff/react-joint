@@ -1,0 +1,911 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:v='http://schemas.microsoft.com/visio/2003/SVGExtensions/' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' width='841.8898pt' height='595.2756pt' viewBox='0 0 841.8898 595.2756'>
+ <v:documentProperties>
+  <v:userDefs>
+   <v:ud v:nameU='msvNoAutoConnect' v:val='1'/>
+  </v:userDefs>
+ </v:documentProperties>
+ <g id='SFixTitle'/>
+ <g id='SContent'>
+  <g>
+   <g transform='matrix(1.0,0.0,0.0,-1.0,0.0,595.2756)'>
+    <g transform='matrix(1.0,0.0,0.0,1.0,212.3561,158.99617)' v:mID='1.0'>
+     <title>Plain.31</title>
+     <userDefs>
+      <ud nameU='BaseColor' val='#ffffff'/>
+      <ud nameU='visNavOrder' val='1000'/>
+      <ud nameU='msvShapeCategories' val='ContainerStyleDefaults'/>
+      <ud nameU='msvStructureType' val='Container'/>
+      <ud nameU='msvSDContainerMargin' val='0.1181102362204724'/>
+      <ud nameU='msvSDContainerResize' val='1'/>
+      <ud nameU='msvSDContainerLocked' val='0'/>
+      <ud nameU='msvSDContainerNoHighlight' val='0'/>
+      <ud nameU='msvSDContainerNoRibbon' val='0'/>
+      <ud nameU='msvSDContainerStyle' val='1'/>
+      <ud nameU='msvSDContainerStyleCount' val='14'/>
+      <ud nameU='msvSDContainerRequiredCategories' val='0'/>
+      <ud nameU='msvSDContainerExcludedCategories' val='DoNotContain'/>
+      <ud nameU='msvSDHeadingStyle' val='1'/>
+      <ud nameU='msvSDHeadingStyleCount' val='4'/>
+      <ud nameU='HeadingSide' val='0'/>
+      <ud nameU='HeadingSpan' val='0'/>
+      <ud nameU='HeadingAlign' val='0'/>
+      <ud nameU='RTL' val='0'/>
+      <ud nameU='FnForceContrast' val='#ffffff'/>
+      <ud nameU='HColor1' val='#ffffff'/>
+      <ud nameU='HColor2' val='#fefefe'/>
+      <ud nameU='HColor3' val='#e9e9e9'/>
+      <ud nameU='HColor4' val='#efefef'/>
+      <ud nameU='BColor1' val='#ffffff'/>
+      <ud nameU='BColor2' val='#ffffff'/>
+      <ud nameU='LineColor' val='#d5d5d5'/>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='Embellishment' val='2'/>
+     </userDefs>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)' v:mID='2.0'>
+      <title>Sheet.2</title>
+      <userDefs>
+       <ud nameU='FillForegndIn' val='#ffffff'/>
+       <ud nameU='FillBkgndIn' val='#5a5a5a'/>
+       <ud nameU='FillPatternIn' val='1'/>
+       <ud nameU='BaseColor' val='#ffffff'/>
+       <ud nameU='BackFillColor' val='#a5a5a5'/>
+       <ud nameU='BackLineColor' val='#ffffff'/>
+       <ud nameU='DarkerColor' val='#a5a5a5'/>
+       <ud nameU='visAltText'/>
+       <ud nameU='msvStructureType' val='0'/>
+       <ud nameU='CStyle' val='1'/>
+       <ud nameU='HSide' val='0'/>
+       <ud nameU='HSpan' val='0'/>
+       <ud nameU='HAlign' val='0'/>
+       <ud nameU='HorzAlign' val='0'/>
+       <ud nameU='SquareCorners' val='0'/>
+       <ud nameU='Corner6' val='0.1968503937007874'/>
+      </userDefs>
+      <g transform='matrix(1.0,0.0,0.0,1.0,2.8346405,-2.8346558)' v:mID='3.0'>
+       <title>Plain.31</title>
+       <userDefs>
+        <ud nameU='msvStructureType' val='0'/>
+        <ud nameU='msvThemeColors' val='0'/>
+        <ud nameU='msvThemeEffects' val='0'/>
+        <ud nameU='CStyle' val='1'/>
+        <ud nameU='HSide' val='0'/>
+        <ud nameU='HSpan' val='0'/>
+        <ud nameU='HAlign' val='0'/>
+        <ud nameU='HorzAlign' val='0'/>
+        <ud nameU='SquareCorners' val='0'/>
+        <ud nameU='OffsetX10' val='0.03937007874015748'/>
+        <ud nameU='OffsetY10' val='-0.03937007874015748'/>
+        <ud nameU='BackFillColor' val='#96afcf'/>
+        <ud nameU='BackLineColor' val='#1f477d'/>
+        <ud nameU='DarkerColor' val='#1f477d'/>
+       </userDefs>
+      </g>
+      <path d='M0,0 L139.727462769,0 L139.727462769,0 L139.727462769,0 L139.727462769,0 L279.454925537,0 L279.454925537,0 L279.454925537,322.893585205 L279.454925537,322.893585205 L139.727462769,322.893585205 L139.727462769,322.893585205 L139.727462769,322.893585205 L139.727462769,322.893585205 L0,322.893585205 L0,322.893585205 L0,0 Z' stroke='#A5A5A5' stroke-width='1.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+      <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,297.38177)' v:mID='4.0'>
+      <title>Sheet.4</title>
+      <userDefs>
+       <ud nameU='HTxtWidth' val='3.881318262636538'/>
+       <ud nameU='HRight' val='3.881318262636538'/>
+       <ud nameU='FillForegndIn' val='#5a5a5a'/>
+       <ud nameU='FillBkgndIn' val='#ffffff'/>
+       <ud nameU='BaseColor' val='#ffffff'/>
+       <ud nameU='FillPatternIn' val='30'/>
+       <ud nameU='BackFillColor' val='#a5a5a5'/>
+       <ud nameU='BackLineColor' val='#ffffff'/>
+       <ud nameU='BackCharColor' val='#ffffff'/>
+       <ud nameU='DarkerColor' val='#a5a5a5'/>
+       <ud nameU='msvStructureType' val='Heading'/>
+       <ud nameU='CStyle' val='1'/>
+       <ud nameU='HSide' val='0'/>
+       <ud nameU='HSpan' val='0'/>
+       <ud nameU='HAlign' val='0'/>
+       <ud nameU='Hidden' val='0'/>
+       <ud nameU='HorzAlign' val='0'/>
+       <ud nameU='Rounding' val='0'/>
+       <ud nameU='SquareCorners' val='3'/>
+       <ud nameU='Inset' val='0'/>
+       <ud nameU='InsideRadius' val='0'/>
+       <ud nameU='InsetXInt' val='0'/>
+       <ud nameU='HTxtMargin' val='0.05905511811023622'/>
+       <ud nameU='HLeft' val='0'/>
+       <ud nameU='SquareCorners7' val='3'/>
+       <ud nameU='Offset' val='0'/>
+       <ud nameU='Rounding8' val='0.1181102362204724'/>
+       <ud nameU='InsetX9' val='0'/>
+       <ud nameU='InsetY9' val='0'/>
+       <ud nameU='OffsetY11' val='0'/>
+       <ud nameU='OffsetY12' val='0'/>
+       <ud nameU='Width12' val='0'/>
+       <ud nameU='msvSDContainerHeadingEdge' val='Bottom'/>
+       <ud nameU='HLineVisible' val='0'/>
+       <ud nameU='HFillVisible' val='0'/>
+      </userDefs>
+      <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)' v:mID='5.0'>
+       <title>Plain.31</title>
+       <userDefs>
+        <ud nameU='HRight' val='3.881318262636538'/>
+        <ud nameU='Offset7' val='0.006944444444444444'/>
+        <ud nameU='AnchorPt7' val='0.642661854768154'/>
+        <ud nameU='msvStructureType' val='0'/>
+        <ud nameU='msvThemeColors' val='0'/>
+        <ud nameU='msvThemeEffects' val='0'/>
+        <ud nameU='CStyle' val='1'/>
+        <ud nameU='Rounding' val='0'/>
+        <ud nameU='SquareCorners' val='3'/>
+        <ud nameU='HLeft' val='0'/>
+        <ud nameU='Hidden' val='0'/>
+        <ud nameU='BowHeight7' val='0.1181102362204724'/>
+        <ud nameU='HSide' val='0'/>
+        <ud nameU='HAlign' val='0'/>
+       </userDefs>
+      </g>
+      <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'>
+       <text x='6.0' y='7.2000003' class='TextStyle0' fill='#A5A5A5' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,16.355906)'>Кабинет</text>
+      </g>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,511.76788,325.98425)' v:mID='6.0'>
+     <title>Plain.69</title>
+     <userDefs>
+      <ud nameU='BaseColor' val='#ffffff'/>
+      <ud nameU='visNavOrder' val='2000'/>
+      <ud nameU='msvShapeCategories' val='ContainerStyleDefaults'/>
+      <ud nameU='msvStructureType' val='Container'/>
+      <ud nameU='msvSDContainerMargin' val='0.1181102362204724'/>
+      <ud nameU='msvSDContainerResize' val='1'/>
+      <ud nameU='msvSDContainerLocked' val='0'/>
+      <ud nameU='msvSDContainerNoHighlight' val='0'/>
+      <ud nameU='msvSDContainerNoRibbon' val='0'/>
+      <ud nameU='msvSDContainerStyle' val='1'/>
+      <ud nameU='msvSDContainerStyleCount' val='14'/>
+      <ud nameU='msvSDContainerRequiredCategories' val='0'/>
+      <ud nameU='msvSDContainerExcludedCategories' val='DoNotContain'/>
+      <ud nameU='msvSDHeadingStyle' val='1'/>
+      <ud nameU='msvSDHeadingStyleCount' val='4'/>
+      <ud nameU='HeadingSide' val='0'/>
+      <ud nameU='HeadingSpan' val='0'/>
+      <ud nameU='HeadingAlign' val='0'/>
+      <ud nameU='RTL' val='0'/>
+      <ud nameU='FnForceContrast' val='#ffffff'/>
+      <ud nameU='HColor1' val='#ffffff'/>
+      <ud nameU='HColor2' val='#fefefe'/>
+      <ud nameU='HColor3' val='#e9e9e9'/>
+      <ud nameU='HColor4' val='#efefef'/>
+      <ud nameU='BColor1' val='#ffffff'/>
+      <ud nameU='BColor2' val='#ffffff'/>
+      <ud nameU='LineColor' val='#d5d5d5'/>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='Embellishment' val='2'/>
+     </userDefs>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)' v:mID='7.0'>
+      <title>Sheet.7</title>
+      <userDefs>
+       <ud nameU='FillForegndIn' val='#ffffff'/>
+       <ud nameU='FillBkgndIn' val='#5a5a5a'/>
+       <ud nameU='FillPatternIn' val='1'/>
+       <ud nameU='BaseColor' val='#ffffff'/>
+       <ud nameU='BackFillColor' val='#a5a5a5'/>
+       <ud nameU='BackLineColor' val='#ffffff'/>
+       <ud nameU='DarkerColor' val='#a5a5a5'/>
+       <ud nameU='visAltText'/>
+       <ud nameU='msvStructureType' val='0'/>
+       <ud nameU='CStyle' val='1'/>
+       <ud nameU='HSide' val='0'/>
+       <ud nameU='HSpan' val='0'/>
+       <ud nameU='HAlign' val='0'/>
+       <ud nameU='HorzAlign' val='0'/>
+       <ud nameU='SquareCorners' val='0'/>
+       <ud nameU='Corner6' val='0.1968503937007874'/>
+      </userDefs>
+      <g transform='matrix(1.0,0.0,0.0,1.0,2.8346405,-2.8346405)' v:mID='8.0'>
+       <title>Plain.31</title>
+       <userDefs>
+        <ud nameU='msvStructureType' val='0'/>
+        <ud nameU='msvThemeColors' val='0'/>
+        <ud nameU='msvThemeEffects' val='0'/>
+        <ud nameU='CStyle' val='1'/>
+        <ud nameU='HSide' val='0'/>
+        <ud nameU='HSpan' val='0'/>
+        <ud nameU='HAlign' val='0'/>
+        <ud nameU='HorzAlign' val='0'/>
+        <ud nameU='SquareCorners' val='0'/>
+        <ud nameU='OffsetX10' val='0.03937007874015748'/>
+        <ud nameU='OffsetY10' val='-0.03937007874015748'/>
+        <ud nameU='BackFillColor' val='#96afcf'/>
+        <ud nameU='BackLineColor' val='#1f477d'/>
+        <ud nameU='DarkerColor' val='#1f477d'/>
+       </userDefs>
+      </g>
+      <path d='M0,0 L141.023620605,0 L141.023620605,0 L141.023620605,0 L141.023620605,0 L282.047241211,0 L282.047241211,0 L282.047241211,155.905502319 L282.047241211,155.905502319 L141.023620605,155.905502319 L141.023620605,155.905502319 L141.023620605,155.905502319 L141.023620605,155.905502319 L0,155.905502319 L0,155.905502319 L0,0 Z' stroke='#A5A5A5' stroke-width='1.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+      <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,130.39369)' v:mID='9.0'>
+      <title>Sheet.9</title>
+      <userDefs>
+       <ud nameU='HTxtWidth' val='3.91732283464567'/>
+       <ud nameU='HRight' val='3.91732283464567'/>
+       <ud nameU='FillForegndIn' val='#5a5a5a'/>
+       <ud nameU='FillBkgndIn' val='#ffffff'/>
+       <ud nameU='BaseColor' val='#ffffff'/>
+       <ud nameU='FillPatternIn' val='30'/>
+       <ud nameU='BackFillColor' val='#a5a5a5'/>
+       <ud nameU='BackLineColor' val='#ffffff'/>
+       <ud nameU='BackCharColor' val='#ffffff'/>
+       <ud nameU='DarkerColor' val='#a5a5a5'/>
+       <ud nameU='msvStructureType' val='Heading'/>
+       <ud nameU='CStyle' val='1'/>
+       <ud nameU='HSide' val='0'/>
+       <ud nameU='HSpan' val='0'/>
+       <ud nameU='HAlign' val='0'/>
+       <ud nameU='Hidden' val='0'/>
+       <ud nameU='HorzAlign' val='0'/>
+       <ud nameU='Rounding' val='0'/>
+       <ud nameU='SquareCorners' val='3'/>
+       <ud nameU='Inset' val='0'/>
+       <ud nameU='InsideRadius' val='0'/>
+       <ud nameU='InsetXInt' val='0'/>
+       <ud nameU='HTxtMargin' val='0.05905511811023622'/>
+       <ud nameU='HLeft' val='0'/>
+       <ud nameU='SquareCorners7' val='3'/>
+       <ud nameU='Offset' val='0'/>
+       <ud nameU='Rounding8' val='0.1181102362204724'/>
+       <ud nameU='InsetX9' val='0'/>
+       <ud nameU='InsetY9' val='0'/>
+       <ud nameU='OffsetY11' val='0'/>
+       <ud nameU='OffsetY12' val='0'/>
+       <ud nameU='Width12' val='0'/>
+       <ud nameU='msvSDContainerHeadingEdge' val='Bottom'/>
+       <ud nameU='HLineVisible' val='0'/>
+       <ud nameU='HFillVisible' val='0'/>
+      </userDefs>
+      <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)' v:mID='10.0'>
+       <title>Plain.31</title>
+       <userDefs>
+        <ud nameU='HRight' val='3.91732283464567'/>
+        <ud nameU='Offset7' val='0.006944444444444444'/>
+        <ud nameU='AnchorPt7' val='0.642661854768154'/>
+        <ud nameU='msvStructureType' val='0'/>
+        <ud nameU='msvThemeColors' val='0'/>
+        <ud nameU='msvThemeEffects' val='0'/>
+        <ud nameU='CStyle' val='1'/>
+        <ud nameU='Rounding' val='0'/>
+        <ud nameU='SquareCorners' val='3'/>
+        <ud nameU='HLeft' val='0'/>
+        <ud nameU='Hidden' val='0'/>
+        <ud nameU='BowHeight7' val='0.1181102362204724'/>
+        <ud nameU='HSide' val='0'/>
+        <ud nameU='HAlign' val='0'/>
+       </userDefs>
+      </g>
+      <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'>
+       <text x='6.0' y='7.2000003' class='TextStyle0' fill='#A5A5A5' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,16.355906)'>Гостиная</text>
+      </g>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,511.76788,157.17813)' v:mID='22.0'>
+     <title>Plain.85</title>
+     <userDefs>
+      <ud nameU='BaseColor' val='#ffffff'/>
+      <ud nameU='visNavOrder' val='3000'/>
+      <ud nameU='msvShapeCategories' val='ContainerStyleDefaults'/>
+      <ud nameU='msvStructureType' val='Container'/>
+      <ud nameU='msvSDContainerMargin' val='0.1181102362204724'/>
+      <ud nameU='msvSDContainerResize' val='1'/>
+      <ud nameU='msvSDContainerLocked' val='0'/>
+      <ud nameU='msvSDContainerNoHighlight' val='0'/>
+      <ud nameU='msvSDContainerNoRibbon' val='0'/>
+      <ud nameU='msvSDContainerStyle' val='1'/>
+      <ud nameU='msvSDContainerStyleCount' val='14'/>
+      <ud nameU='msvSDContainerRequiredCategories' val='0'/>
+      <ud nameU='msvSDContainerExcludedCategories' val='DoNotContain'/>
+      <ud nameU='msvSDHeadingStyle' val='1'/>
+      <ud nameU='msvSDHeadingStyleCount' val='4'/>
+      <ud nameU='HeadingSide' val='0'/>
+      <ud nameU='HeadingSpan' val='0'/>
+      <ud nameU='HeadingAlign' val='0'/>
+      <ud nameU='RTL' val='0'/>
+      <ud nameU='FnForceContrast' val='#ffffff'/>
+      <ud nameU='HColor1' val='#ffffff'/>
+      <ud nameU='HColor2' val='#fefefe'/>
+      <ud nameU='HColor3' val='#e9e9e9'/>
+      <ud nameU='HColor4' val='#efefef'/>
+      <ud nameU='BColor1' val='#ffffff'/>
+      <ud nameU='BColor2' val='#ffffff'/>
+      <ud nameU='LineColor' val='#d5d5d5'/>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='Embellishment' val='2'/>
+     </userDefs>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)' v:mID='23.0'>
+      <title>Sheet.23</title>
+      <userDefs>
+       <ud nameU='FillForegndIn' val='#ffffff'/>
+       <ud nameU='FillBkgndIn' val='#5a5a5a'/>
+       <ud nameU='FillPatternIn' val='1'/>
+       <ud nameU='BaseColor' val='#ffffff'/>
+       <ud nameU='BackFillColor' val='#a5a5a5'/>
+       <ud nameU='BackLineColor' val='#ffffff'/>
+       <ud nameU='DarkerColor' val='#a5a5a5'/>
+       <ud nameU='visAltText'/>
+       <ud nameU='msvStructureType' val='0'/>
+       <ud nameU='CStyle' val='1'/>
+       <ud nameU='HSide' val='0'/>
+       <ud nameU='HSpan' val='0'/>
+       <ud nameU='HAlign' val='0'/>
+       <ud nameU='HorzAlign' val='0'/>
+       <ud nameU='SquareCorners' val='0'/>
+       <ud nameU='Corner6' val='0.1968503937007874'/>
+      </userDefs>
+      <g transform='matrix(1.0,0.0,0.0,1.0,2.8346405,-2.8346405)' v:mID='24.0'>
+       <title>Plain.31</title>
+       <userDefs>
+        <ud nameU='msvStructureType' val='0'/>
+        <ud nameU='msvThemeColors' val='0'/>
+        <ud nameU='msvThemeEffects' val='0'/>
+        <ud nameU='CStyle' val='1'/>
+        <ud nameU='HSide' val='0'/>
+        <ud nameU='HSpan' val='0'/>
+        <ud nameU='HAlign' val='0'/>
+        <ud nameU='HorzAlign' val='0'/>
+        <ud nameU='SquareCorners' val='0'/>
+        <ud nameU='OffsetX10' val='0.03937007874015748'/>
+        <ud nameU='OffsetY10' val='-0.03937007874015748'/>
+        <ud nameU='BackFillColor' val='#96afcf'/>
+        <ud nameU='BackLineColor' val='#1f477d'/>
+        <ud nameU='DarkerColor' val='#1f477d'/>
+       </userDefs>
+      </g>
+      <path d='M0,0 L141.023620605,0 L141.023620605,0 L141.023620605,0 L141.023620605,0 L282.047241211,0 L282.047241211,0 L282.047241211,155.905502319 L282.047241211,155.905502319 L141.023620605,155.905502319 L141.023620605,155.905502319 L141.023620605,155.905502319 L141.023620605,155.905502319 L0,155.905502319 L0,155.905502319 L0,0 Z' stroke='#A5A5A5' stroke-width='1.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+      <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,130.39369)' v:mID='25.0'>
+      <title>Sheet.25</title>
+      <userDefs>
+       <ud nameU='HTxtWidth' val='3.91732283464567'/>
+       <ud nameU='HRight' val='3.91732283464567'/>
+       <ud nameU='FillForegndIn' val='#5a5a5a'/>
+       <ud nameU='FillBkgndIn' val='#ffffff'/>
+       <ud nameU='BaseColor' val='#ffffff'/>
+       <ud nameU='FillPatternIn' val='30'/>
+       <ud nameU='BackFillColor' val='#a5a5a5'/>
+       <ud nameU='BackLineColor' val='#ffffff'/>
+       <ud nameU='BackCharColor' val='#ffffff'/>
+       <ud nameU='DarkerColor' val='#a5a5a5'/>
+       <ud nameU='msvStructureType' val='Heading'/>
+       <ud nameU='CStyle' val='1'/>
+       <ud nameU='HSide' val='0'/>
+       <ud nameU='HSpan' val='0'/>
+       <ud nameU='HAlign' val='0'/>
+       <ud nameU='Hidden' val='0'/>
+       <ud nameU='HorzAlign' val='0'/>
+       <ud nameU='Rounding' val='0'/>
+       <ud nameU='SquareCorners' val='3'/>
+       <ud nameU='Inset' val='0'/>
+       <ud nameU='InsideRadius' val='0'/>
+       <ud nameU='InsetXInt' val='0'/>
+       <ud nameU='HTxtMargin' val='0.05905511811023622'/>
+       <ud nameU='HLeft' val='0'/>
+       <ud nameU='SquareCorners7' val='3'/>
+       <ud nameU='Offset' val='0'/>
+       <ud nameU='Rounding8' val='0.1181102362204724'/>
+       <ud nameU='InsetX9' val='0'/>
+       <ud nameU='InsetY9' val='0'/>
+       <ud nameU='OffsetY11' val='0'/>
+       <ud nameU='OffsetY12' val='0'/>
+       <ud nameU='Width12' val='0'/>
+       <ud nameU='msvSDContainerHeadingEdge' val='Bottom'/>
+       <ud nameU='HLineVisible' val='0'/>
+       <ud nameU='HFillVisible' val='0'/>
+      </userDefs>
+      <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)' v:mID='26.0'>
+       <title>Plain.31</title>
+       <userDefs>
+        <ud nameU='HRight' val='3.91732283464567'/>
+        <ud nameU='Offset7' val='0.006944444444444444'/>
+        <ud nameU='AnchorPt7' val='0.642661854768154'/>
+        <ud nameU='msvStructureType' val='0'/>
+        <ud nameU='msvThemeColors' val='0'/>
+        <ud nameU='msvThemeEffects' val='0'/>
+        <ud nameU='CStyle' val='1'/>
+        <ud nameU='Rounding' val='0'/>
+        <ud nameU='SquareCorners' val='3'/>
+        <ud nameU='HLeft' val='0'/>
+        <ud nameU='Hidden' val='0'/>
+        <ud nameU='BowHeight7' val='0.1181102362204724'/>
+        <ud nameU='HSide' val='0'/>
+        <ud nameU='HAlign' val='0'/>
+       </userDefs>
+      </g>
+      <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'>
+       <text x='6.0' y='7.2000003' class='TextStyle0' fill='#A5A5A5' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,16.355906)'>Спальня</text>
+      </g>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,696.93744,207.02379)' v:mID='27.0'>
+     <title>Laptop.54</title>
+     <userDefs>
+      <ud nameU='visNavOrder' val='4000'/>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='ShapeClass' val='5'/>
+      <ud nameU='SolSH' val='{BF0433D9-CD73-4EB5-8390-8653BE590246}'/>
+      <ud nameU='visLegendShape' val='2'/>
+     </userDefs>
+     <custProps>
+      <cp nameU='AssetNumber' lbl='Инвентарный номер' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='SerialNumber' lbl='Серийный номер' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Location' lbl='Размещение' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Building' lbl='Здание' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Room' lbl='комната' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Manufacturer' lbl='Изготовитель' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ProductNumber' lbl='Номер товара' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='PartNumber' lbl='Код позиции' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ProductDescription' lbl='Описание товара' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NetworkName' lbl='Сетевое имя' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='IPAddress' lbl='IP-адрес' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='SubnetMask' lbl='Маска подсети' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='AdminInterface' lbl='Интерфейс администратора' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NumberofPorts' lbl='Число портов' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='CommunityString' lbl='Строка сообщества' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NetworkDescription' lbl='Сетевое описание' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='MACAddress' lbl='MAC-адрес' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='CPU' lbl='ЦП' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Memory' lbl='Память' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='OperatingSystem' lbl='Операционная система' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='HardDriveSize' lbl='Емкость жесткого диска' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ShapeClass' lbl='ShapeClass' type='0.0' langID='1049.0' val='Оборудование'/>
+      <cp nameU='ShapeType' lbl='ShapeType' type='0.0' langID='1049.0' val='Компьютер'/>
+      <cp nameU='SubShapeType' lbl='SubShapeType' type='0.0' langID='1049.0' val='Ноутбук'/>
+     </custProps>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,6.5614605)' v:mID='28.0'>
+      <title>Sheet.28</title>
+      <path d='M0,0 L70.866142273,0 L70.866142273,0 L70.866142273,7.426771164 L70.866142273,7.426771164 L64.79776001,17.684457779 L64.79776001,17.684457779 L5.714048862,17.684457779 L5.714048862,17.684457779 L0,7.426771164 L0,7.426771164 L0,0 M64.990219116,19.37405777 L64.990219116,51.81508255 L64.990219116,51.81508255 C64.990219116,55.08984375 62.336093903,57.743221283 59.061336517,57.743221283 L59.061336517,57.743221283 L11.639204979,57.743221283 L11.639204979,57.743221283 C8.365188599,57.743221283 5.711065292,55.08984375 5.711065292,51.81508255 L5.711065292,51.81508255 L5.711065292,19.37405777 L5.711065292,19.37405777 L64.990219116,19.37405777 ' stroke='#A5A5A5' stroke-width='2.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,6.972481,14.825943)' v:mID='29.0'>
+      <title>Sheet.29</title>
+      <userDefs>
+       <ud nameU='SurroundingRegionColor' val='#ffffff'/>
+      </userDefs>
+      <path d='M2.862246037,5.11802721 L0,0 L0,0 L56.79511261,0 L56.79511261,0 L53.933609009,5.11802721 L53.933609009,5.11802721 L2.862246037,5.11802721 ' stroke='none' stroke-width='0.0' fill='#A5A5A5'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,11.425861,32.106094)' v:mID='30.0'>
+      <title>Sheet.30</title>
+      <userDefs>
+       <ud nameU='SurroundingRegionColor' val='#ffffff'/>
+      </userDefs>
+      <path d='M0,0 L48.015167236,0 L48.015167236,0 L48.015167236,26.65089035 L48.015167236,26.65089035 L0,26.65089035 L0,26.65089035 L0,0 Z' stroke='#A5A5A5' stroke-width='2.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,9.438976,-20.003635)'>
+      <text x='7.261183' y='0.0' class='TextStyle1' fill='#555555' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.001819)'>Ноутбук</text>
+      <text x='23.21333' y='12.0' class='TextStyle1' fill='#555555' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.001819)'>1</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,569.4433,207.02379)' v:mID='31.0'>
+     <title>Smart phone</title>
+     <userDefs>
+      <ud nameU='visNavOrder' val='3500'/>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='ShapeClass' val='5'/>
+      <ud nameU='SolSH' val='{BF0433D9-CD73-4EB5-8390-8653BE590246}'/>
+      <ud nameU='visLegendShape' val='2'/>
+     </userDefs>
+     <custProps>
+      <cp nameU='AssetNumber' lbl='Инвентарный номер' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='SerialNumber' lbl='Серийный номер' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Location' lbl='Размещение' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Building' lbl='Здание' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Room' lbl='комната' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Manufacturer' lbl='Изготовитель' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ProductNumber' lbl='Номер товара' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='PartNumber' lbl='Код позиции' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ProductDescription' lbl='Описание товара' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NetworkName' lbl='Сетевое имя' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='IPAddress' lbl='IP-адрес' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='SubnetMask' lbl='Маска подсети' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='AdminInterface' lbl='Интерфейс администратора' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NumberofPorts' lbl='Число портов' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='CommunityString' lbl='Строка сообщества' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NetworkDescription' lbl='Сетевое описание' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='MACAddress' lbl='MAC-адрес' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='CPU' lbl='ЦП' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Memory' lbl='Память' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='OperatingSystem' lbl='Операционная система' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='HardDriveSize' lbl='Емкость жесткого диска' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ShapeClass' lbl='ShapeClass' type='0.0' langID='1049.0' val='Оборудование'/>
+      <cp nameU='ShapeType' lbl='ShapeType' type='0.0' langID='1049.0' val='Мобильный телефон'/>
+     </custProps>
+     <g transform='matrix(1.0,0.0,0.0,1.0,16.709276,0.0)' v:mID='32.0'>
+      <title>Sheet.32</title>
+      <path d='M0,4.411417484 C0,2.857529402 1.260826826,1.418061018 2.801427364,1.213582635 L2.801427364,1.213582635 C2.801427364,1.213582635 11.942421913,0 18.723426819,0 L18.723426819,0 C25.504430771,0 34.64616394,1.213582635 34.64616394,1.213582635 L34.64616394,1.213582635 C36.186763763,1.418061018 37.447589874,2.857529402 37.447589874,4.411417484 L37.447589874,4.411417484 L37.447589874,66.455459595 L37.447589874,66.455459595 C37.447589874,68.009346008 36.1875,69.451034546 34.646900177,69.658462524 L34.646900177,69.658462524 C34.646900177,69.658462524 25.677165985,70.866142273 18.723426819,70.866142273 L18.723426819,70.866142273 C11.941683769,70.866142273 2.801427364,69.652557373 2.801427364,69.652557373 L2.801427364,69.652557373 C1.260826826,69.448822021 0,68.009346008 0,66.455459595 L0,66.455459595 L0,4.411417484 L0,4.411417484 L0,4.411417484 ' stroke='#A5A5A5' stroke-width='2.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,19.535065,8.701773)' v:mID='33.0'>
+      <title>Sheet.33</title>
+      <userDefs>
+       <ud nameU='SurroundingRegionColor' val='#ffffff'/>
+      </userDefs>
+      <path d='M0,0 L31.796014786,0 L31.796014786,0 L31.796014786,52.090305328 L31.796014786,52.090305328 L0,52.090305328 L0,52.090305328 L0,0 ' stroke='#A5A5A5' stroke-width='2.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,29.592888,3.5344467)' v:mID='34.0'>
+      <title>Sheet.34</title>
+      <userDefs>
+       <ud nameU='SurroundingRegionColor' val='#ffffff'/>
+      </userDefs>
+      <ellipse cx='1.2600895020904117' cy='1.2608267054782645' rx='1.2600886821746826' ry='1.260088562965393' stroke='none' stroke-width='0.0' fill='#A5A5A5'  fill-rule='evenodd'/>
+      <ellipse cx='5.84276666744488' cy='1.2608267054782645' rx='1.2600889205932617' ry='1.260088562965393' stroke='none' stroke-width='0.0' fill='#A5A5A5'  fill-rule='evenodd'/>
+      <ellipse cx='10.427658346225204' cy='1.260826651974909' rx='1.2608270645141602' ry='1.2608267068862915' stroke='none' stroke-width='0.0' fill='#A5A5A5'  fill-rule='evenodd'/>
+      <path d='M1.164124966,61.542816162 L10.522884369,61.542816162 ' stroke='#A5A5A5' stroke-width='2.0' stroke-linecap='round' fill='none'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,8.865353,-20.003635)'>
+      <text x='4.7928147' y='0.0' class='TextStyle1' fill='#555555' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.001819)'>Смартфо</text>
+      <text x='23.808926' y='12.0' class='TextStyle1' fill='#555555' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.001819)'>н</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,50.90932,275.05582)' v:mID='35.0'>
+     <title>Wireless access point</title>
+     <userDefs>
+      <ud nameU='visNavOrder' val='500'/>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='ShapeClass' val='5'/>
+      <ud nameU='SolSH' val='{BF0433D9-CD73-4EB5-8390-8653BE590246}'/>
+      <ud nameU='visLegendShape' val='2'/>
+     </userDefs>
+     <custProps>
+      <cp nameU='AssetNumber' lbl='Инвентарный номер' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='SerialNumber' lbl='Серийный номер' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Location' lbl='Размещение' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Building' lbl='Здание' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Room' lbl='комната' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Manufacturer' lbl='Изготовитель' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ProductNumber' lbl='Номер товара' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='PartNumber' lbl='Код позиции' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ProductDescription' lbl='Описание товара' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NetworkName' lbl='Сетевое имя' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='IPAddress' lbl='IP-адрес' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='SubnetMask' lbl='Маска подсети' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='AdminInterface' lbl='Интерфейс администратора' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NumberofPorts' lbl='Число портов' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='CommunityString' lbl='Строка сообщества' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NetworkDescription' lbl='Сетевое описание' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='MACAddress' lbl='MAC-адрес' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='SSID' lbl='SSID' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ShapeClass' lbl='ShapeClass' type='0.0' langID='1049.0' val='Оборудование'/>
+      <cp nameU='ShapeType' lbl='ShapeType' type='0.0' langID='1049.0' val='Устройство'/>
+      <cp nameU='SubShapeType' lbl='SubShapeType' type='0.0' langID='1049.0' val='Точка доступа'/>
+     </custProps>
+     <g transform='matrix(1.0,0.0,0.0,1.0,12.077318,35.18754)' v:mID='36.0'>
+      <title>Sheet.36</title>
+      <path d='M30.64827919,17.836473465 C30.64827919,15.608948708 29.641365051,13.614224434 28.062000275,12.274029732 L28.062000275,12.274029732 L29.337804794,10.761889458 L29.337804794,10.761889458 C31.34809494,12.464374542 32.629558563,15.001829147 32.629558563,17.836473465 L32.629558563,17.836473465 C32.629558563,20.673950195 31.345972061,23.214233398 29.332141876,24.916719437 L29.332141876,24.916719437 L28.056339264,23.40316391 L28.056339264,23.40316391 C29.638534546,22.065799713 30.64827919,20.067537308 30.64827919,17.836473465 M37.275661469,17.836473465 C37.275661469,13.579551697 35.350280762,9.769833565 32.330951691,7.213982582 L32.330951691,7.213982582 L33.606754303,5.700426102 L33.606754303,5.700426102 C37.057014465,8.619276047 39.256233215,12.972432137 39.256233215,17.835765839 L39.256233215,17.835765839 C39.256233215,22.701931 37.054889679,27.057918549 33.601093292,29.976766586 L33.601093292,29.976766586 L32.324584961,28.46462822 L32.324584961,28.46462822 C35.34815979,25.910898209 37.275661469,22.096225739 37.275661469,17.836473465 M38.406406403,35.675777435 L37.13060379,34.162220001 L37.13060379,34.162220001 C41.773872375,30.238580704 44.730224609,24.37894249 44.730224609,17.836473465 L44.730224609,17.836473465 C44.730224609,11.298250198 41.775291443,5.439321518 37.136264801,1.516386867 L37.136264801,1.516386867 L38.412773132,0.0014152 L38.412773132,0.0014152 C43.482727051,4.290179253 46.71150589,10.692544937 46.71150589,17.836473465 L46.71150589,17.836473465 C46.710800171,24.984649658 43.481311798,31.389137268 38.406406403,35.675777435 M16.062520981,17.836473465 C16.062520981,20.069658279 17.072973251,22.067922592 18.659412384,23.407407761 L18.659412384,23.407407761 L17.382902145,24.920967102 L17.382902145,24.920967102 C15.366949081,23.218479156 14.08194828,20.675365448 14.08194828,17.836473465 L14.08194828,17.836473465 C14.08194828,15.000412941 15.364826202,12.460128784 17.377948761,10.757642746 L17.377948761,10.757642746 L18.653751373,12.271199226 L18.653751373,12.271199226 C17.071557999,13.609271049 16.062520981,15.606119156 16.062520981,17.836473465 M9.435138702,17.836473465 C9.435138702,22.096935272 11.364055634,25.913021088 14.389045715,28.468164444 L14.389045715,28.468164444 L13.113244057,29.980304718 L13.113244057,29.980304718 C9.657324791,27.06145668 7.453858376,22.704053879 7.453858376,17.836473465 L7.453858376,17.836473465 C7.453858376,12.971723557 9.655202866,8.617153168 13.10687542,5.698303223 L13.10687542,5.698303223 L14.383385658,7.21044445 L14.383385658,7.21044445 C11.361932755,9.76558876 9.435138702,13.578845024 9.435138702,17.836473465 M8.299440384,0 L9.576659203,1.512141347 L9.576659203,1.512141347 C4.934802532,5.437198639 1.980572462,11.296834946 1.980572462,17.836473465 L1.980572462,17.836473465 C1.980572462,24.37894249 4.937633038,30.239994049 9.58302784,34.165054321 L9.58302784,34.165054321 L8.305809021,35.678607941 L8.305809021,35.678607941 C3.230901718,31.391262054 0.000000116,24.986064911 0.000000116,17.836473465 L0.000000116,17.836473465 C-0.000707484,10.691836357 3.228071213,4.288763523 8.299440384,0 ' stroke='#FDBF00' stroke-width='2.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,31.55047,41.036552)' v:mID='37.0'>
+      <title>Sheet.37</title>
+      <path d='M2.821201324,8.252277374 L2.821201324,0 L2.821201324,0 L4.944001675,0 L4.944001675,0 L4.944001675,8.252576828 L4.944001675,8.252576828 C6.57241106,8.714529037 7.765202522,10.212146759 7.765202522,11.987451553 L7.765202522,11.987451553 C7.765202522,14.130771637 6.026629448,15.869345665 3.881893873,15.869345665 L3.881893873,15.869345665 C1.738573313,15.869345665 0,14.130771637 0,11.987451553 L0,11.987451553 C0,10.211764336 1.192821145,8.713882446 2.821201324,8.252277374 ' stroke='none' stroke-width='0.0' fill='#707070'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,24.79112,0.0)' v:mID='38.0'>
+      <title>Sheet.38</title>
+      <path d='M21.283901215,0 L0,0 L0,0 L6.863012791,41.036552429 L6.863012791,41.036552429 L14.420181274,41.036552429 L14.420181274,41.036552429 L21.283901215,0 ' stroke='#A5A5A5' stroke-width='2.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,696.93744,367.3541)' v:mID='39.0'>
+     <title>Laptop</title>
+     <userDefs>
+      <ud nameU='visNavOrder' val='2750'/>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='ShapeClass' val='5'/>
+      <ud nameU='SolSH' val='{BF0433D9-CD73-4EB5-8390-8653BE590246}'/>
+      <ud nameU='visLegendShape' val='2'/>
+     </userDefs>
+     <custProps>
+      <cp nameU='AssetNumber' lbl='Инвентарный номер' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='SerialNumber' lbl='Серийный номер' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Location' lbl='Размещение' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Building' lbl='Здание' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Room' lbl='комната' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Manufacturer' lbl='Изготовитель' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ProductNumber' lbl='Номер товара' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='PartNumber' lbl='Код позиции' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ProductDescription' lbl='Описание товара' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NetworkName' lbl='Сетевое имя' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='IPAddress' lbl='IP-адрес' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='SubnetMask' lbl='Маска подсети' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='AdminInterface' lbl='Интерфейс администратора' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NumberofPorts' lbl='Число портов' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='CommunityString' lbl='Строка сообщества' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NetworkDescription' lbl='Сетевое описание' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='MACAddress' lbl='MAC-адрес' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='CPU' lbl='ЦП' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Memory' lbl='Память' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='OperatingSystem' lbl='Операционная система' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='HardDriveSize' lbl='Емкость жесткого диска' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ShapeClass' lbl='ShapeClass' type='0.0' langID='1049.0' val='Оборудование'/>
+      <cp nameU='ShapeType' lbl='ShapeType' type='0.0' langID='1049.0' val='Компьютер'/>
+      <cp nameU='SubShapeType' lbl='SubShapeType' type='0.0' langID='1049.0' val='Ноутбук'/>
+     </custProps>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,6.5614605)' v:mID='40.0'>
+      <title>Sheet.40</title>
+      <path d='M0,0 L70.866142273,0 L70.866142273,0 L70.866142273,7.426771164 L70.866142273,7.426771164 L64.79776001,17.684457779 L64.79776001,17.684457779 L5.714048862,17.684457779 L5.714048862,17.684457779 L0,7.426771164 L0,7.426771164 L0,0 M64.990219116,19.37405777 L64.990219116,51.81508255 L64.990219116,51.81508255 C64.990219116,55.08984375 62.336093903,57.743221283 59.061336517,57.743221283 L59.061336517,57.743221283 L11.639204979,57.743221283 L11.639204979,57.743221283 C8.365188599,57.743221283 5.711065292,55.08984375 5.711065292,51.81508255 L5.711065292,51.81508255 L5.711065292,19.37405777 L5.711065292,19.37405777 L64.990219116,19.37405777 ' stroke='#A5A5A5' stroke-width='2.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,6.972481,14.825943)' v:mID='41.0'>
+      <title>Sheet.41</title>
+      <userDefs>
+       <ud nameU='SurroundingRegionColor' val='#ffffff'/>
+      </userDefs>
+      <path d='M2.862246037,5.11802721 L0,0 L0,0 L56.79511261,0 L56.79511261,0 L53.933609009,5.11802721 L53.933609009,5.11802721 L2.862246037,5.11802721 ' stroke='none' stroke-width='0.0' fill='#A5A5A5'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,11.425861,32.106094)' v:mID='42.0'>
+      <title>Sheet.42</title>
+      <userDefs>
+       <ud nameU='SurroundingRegionColor' val='#ffffff'/>
+      </userDefs>
+      <path d='M0,0 L48.015167236,0 L48.015167236,0 L48.015167236,26.65089035 L48.015167236,26.65089035 L0,26.65089035 L0,26.65089035 L0,0 Z' stroke='#A5A5A5' stroke-width='2.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,9.438976,-20.003635)'>
+      <text x='7.261183' y='0.0' class='TextStyle1' fill='#555555' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.001819)'>Ноутбук</text>
+      <text x='23.21333' y='12.0' class='TextStyle1' fill='#555555' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.001819)'>2</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,398.0254,224.53278)' v:mID='43.0'>
+     <title>Multi-function device.109</title>
+     <userDefs>
+      <ud nameU='visNavOrder' val='1968'/>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='ShapeClass' val='5'/>
+      <ud nameU='SolSH' val='{BF0433D9-CD73-4EB5-8390-8653BE590246}'/>
+      <ud nameU='visLegendShape' val='2'/>
+     </userDefs>
+     <custProps>
+      <cp nameU='AssetNumber' lbl='Инвентарный номер' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='SerialNumber' lbl='Серийный номер' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Location' lbl='Размещение' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Building' lbl='Здание' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Room' lbl='комната' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Manufacturer' lbl='Изготовитель' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ProductNumber' lbl='Номер товара' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='PartNumber' lbl='Код позиции' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ProductDescription' lbl='Описание товара' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NetworkName' lbl='Сетевое имя' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='IPAddress' lbl='IP-адрес' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='SubnetMask' lbl='Маска подсети' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='AdminInterface' lbl='Интерфейс администратора' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NumberofPorts' lbl='Число портов' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='CommunityString' lbl='Строка сообщества' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NetworkDescription' lbl='Сетевое описание' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='MACAddress' lbl='MAC-адрес' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ShapeClass' lbl='ShapeClass' type='0.0' langID='1049.0' val='Оборудование'/>
+      <cp nameU='ShapeType' lbl='ShapeType' type='0.0' langID='1049.0' val='Устройство'/>
+      <cp nameU='SubShapeType' lbl='SubShapeType' type='0.0' langID='1049.0' val='Многофункциональное устройство'/>
+     </custProps>
+     <g transform='matrix(1.0,0.0,0.0,1.0,8.889236,13.83675)' v:mID='44.0'>
+      <title>Sheet.44</title>
+      <path d='M61.976905823,37.701717377 L9.596274376,37.701717377 L9.596274376,37.701717377 C4.296461582,37.701717377 0,33.405982971 0,28.106891632 L0,28.106891632 L0.001447839,0 L0.001447839,0 L61.976905823,0 L61.976905823,0 L61.976905823,37.701717377 M61.976905823,37.701717377 L61.976905823,39.083683014 L61.976905823,39.083683014 L9.109801292,51.717521667 L9.109801292,51.717521667 L8.469856262,48.568470001 L8.469856262,48.568470001 L54.490272522,37.701717377 L54.490272522,37.701717377 L61.976905823,37.701717377 ' stroke='#A5A5A5' stroke-width='2.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,22.466587)' v:mID='45.0'>
+      <title>Sheet.45</title>
+      <path d='M8.890453339,21.155096054 L0,21.155096054 L0,21.155096054 L8.890453339,0 L8.890453339,0 L8.890453339,21.155096054 ' stroke='#A5A5A5' stroke-width='2.0' stroke-linecap='round' fill='#707070'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,16.727106,5.3118725)' v:mID='46.0'>
+      <title>Sheet.46</title>
+      <userDefs>
+       <ud nameU='SurroundingRegionColor' val='#ffffff'/>
+      </userDefs>
+      <path d='M0.000000351,-0.000000199 L43.042797089,-0.000000199 L43.042797089,-0.000000199 L43.042797089,16.217241287 L43.042797089,16.217241287 L0.000000351,16.217241287 L0.000000351,16.217241287 L0.000000351,-0.000000199 ' stroke='#A5A5A5' stroke-width='2.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+      <path d='M8.587856293,8.417010307 L35.704425812,8.417010307 ' stroke='#A5A5A5' stroke-width='2.0' stroke-linecap='round' fill='none'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,42.40598,41.549103)' v:mID='47.0'>
+      <title>Sheet.47</title>
+      <path d='M4.256642342,2.128321886 C4.256642342,2.69257164 4.032256126,3.234288692 3.633270979,3.633273363 L3.633270979,3.633273363 C3.234286308,4.032258034 2.692569256,4.256644726 2.128319502,4.256644726 L2.128319502,4.256644726 C1.56406951,4.256644726 1.022352815,4.032258034 0.623367906,3.633273363 L0.623367906,3.633273363 C0.224382982,3.234288692 -0.000003487,2.69257164 -0.000003487,2.128321886 L-0.000003487,2.128321886 C-0.000003487,1.564072132 0.224382982,1.022355318 0.623367906,0.623370469 L0.623367906,0.623370469 C1.022352815,0.224385604 1.56406951,-0.000000805 2.128319502,-0.000000805 L2.128319502,-0.000000805 C2.692569256,-0.000000805 3.234286308,0.224385604 3.633270979,0.623370469 L3.633270979,0.623370469 C4.032256126,1.022355318 4.256642342,1.564072132 4.256642342,2.128321886 ZM10.437465668,2.128321886 C10.437465668,2.69257164 10.213079453,3.234288692 9.814094543,3.633273363 L9.814094543,3.633273363 C9.415109634,4.032258511 8.873393059,4.256644726 8.309143066,4.256644726 L8.309143066,4.256644726 C7.744893074,4.256644726 7.203176498,4.032258511 6.804191589,3.633273363 L6.804191589,3.633273363 C6.405206203,3.234288692 6.180820465,2.69257164 6.180820465,2.128321886 L6.180820465,2.128321886 C6.180820465,1.564072251 6.405206203,1.022355437 6.804191589,0.623370588 L6.804191589,0.623370588 C7.203176498,0.224385694 7.744893074,-0.000000805 8.309143066,-0.000000805 L8.309143066,-0.000000805 C8.873393059,-0.000000805 9.415109634,0.224385694 9.814094543,0.623370588 L9.814094543,0.623370588 C10.213079453,1.022355437 10.437465668,1.564072251 10.437465668,2.128321886 ' stroke='#FDBF00' stroke-width='2.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,56.25818,34.671146)' v:mID='48.0'>
+      <title>Sheet.48</title>
+      <userDefs>
+       <ud nameU='SurroundingRegionColor' val='#ffffff'/>
+      </userDefs>
+      <path d='M2.028418779,1.014210224 C2.028418779,1.283092618 1.921491623,1.541237235 1.731363058,1.7313658 L1.731363058,1.7313658 C1.541234612,1.921494246 1.283089876,2.028421164 1.014207602,2.028421164 L1.014207602,2.028421164 C0.745325267,2.028421164 0.48718062,1.921494246 0.297052085,1.7313658 L0.297052085,1.7313658 C0.106923558,1.541237235 -0.000003487,1.283092618 -0.000003487,1.014210224 L-0.000003487,1.014210224 C-0.000003487,0.74532789 0.106923558,0.487183243 0.297052085,0.297054708 L0.297052085,0.297054708 C0.48718062,0.10692621 0.745325267,-0.000000805 1.014207602,-0.000000805 L1.014207602,-0.000000805 C1.283089876,-0.000000805 1.541234612,0.10692621 1.731363058,0.297054708 L1.731363058,0.297054708 C1.921491623,0.487183243 2.028418779,0.74532789 2.028418779,1.014210224 ZM2.028418779,4.049603939 C2.028418779,4.318486214 1.921491742,4.576631069 1.731363297,4.766759872 L1.731363297,4.766759872 C1.541234732,4.956888199 1.283089876,5.063815117 1.014207602,5.063815117 L1.014207602,5.063815117 C0.745325208,5.063815117 0.487180471,4.956888199 0.297051966,4.766759872 L0.297051966,4.766759872 C0.106923498,4.576631069 -0.000003487,4.318486214 -0.000003487,4.049603939 L-0.000003487,4.049603939 C-0.000003487,3.780721664 0.106923498,3.522577047 0.297051966,3.332448483 L0.297051966,3.332448483 C0.487180471,3.142319679 0.745325208,3.035392761 1.014207602,3.035392761 L1.014207602,3.035392761 C1.283089876,3.035392761 1.541234732,3.142319679 1.731363297,3.332448483 L1.731363297,3.332448483 C1.921491742,3.522577047 2.028418779,3.780721664 2.028418779,4.049603939 M2.028418779,7.084274292 C2.028418779,7.353156567 1.921491623,7.611301422 1.731363058,7.801429749 L1.731363058,7.801429749 C1.541234612,7.991558075 1.283089876,8.098484993 1.014207602,8.098484993 L1.014207602,8.098484993 C0.745325327,8.098484993 0.48718068,7.991558075 0.297052175,7.801429749 L0.297052175,7.801429749 C0.10692358,7.611301422 -0.000003487,7.353156567 -0.000003487,7.084274292 L-0.000003487,7.084274292 C-0.000003487,6.815391541 0.10692358,6.557246685 0.297052175,6.367118359 L0.297052175,6.367118359 C0.48718068,6.176990032 0.745325327,6.070063114 1.014207602,6.070063114 L1.014207602,6.070063114 C1.283089876,6.070063114 1.541234612,6.176990032 1.731363058,6.367118359 L1.731363058,6.367118359 C1.921491623,6.557246685 2.028418779,6.815391541 2.028418779,7.084274292 M2.028418779,10.119668007 C2.028418779,10.388549805 1.921491623,10.646694183 1.731363058,10.83682251 L1.731363058,10.83682251 C1.541234612,11.02695179 1.283089876,11.133878708 1.014207602,11.133878708 L1.014207602,11.133878708 C0.745325327,11.133878708 0.48718068,11.02695179 0.297052175,10.83682251 L0.297052175,10.83682251 C0.10692358,10.646694183 -0.000003487,10.388549805 -0.000003487,10.119668007 L-0.000003487,10.119668007 C-0.000003487,9.850786209 0.10692358,9.59264183 0.297052175,9.40251255 L0.297052175,9.40251255 C0.48718068,9.21238327 0.745325327,9.105457306 1.014207602,9.105457306 L1.014207602,9.105457306 C1.283089876,9.105457306 1.541234612,9.21238327 1.731363058,9.40251255 L1.731363058,9.40251255 C1.921491623,9.59264183 2.028418779,9.850786209 2.028418779,10.119668007 M5.713891983,1.014210224 C5.713891983,1.282900572 5.607041359,1.54086113 5.417048931,1.730853915 L5.417048931,1.730853915 C5.227056026,1.920846701 4.96909523,2.027697325 4.700405121,2.027697325 L4.700405121,2.027697325 C4.431714535,2.027697325 4.173754215,1.920846701 3.983761311,1.730853915 L3.983761311,1.730853915 C3.793768406,1.54086113 3.686917782,1.282900572 3.686917782,1.014210224 L3.686917782,1.014210224 C3.686917782,0.745519817 3.793768406,0.487559378 3.983761311,0.297566593 L3.983761311,0.297566593 C4.173754215,0.107573792 4.431714535,0.000723124 4.700405121,0.000723124 L4.700405121,0.000723124 C4.96909523,0.000723124 5.227056026,0.107573792 5.417048931,0.297566593 L5.417048931,0.297566593 C5.607041359,0.487559378 5.713891983,0.745519817 5.713891983,1.014210224 M5.713891983,4.049603939 C5.713891983,4.318294525 5.607041359,4.576255322 5.417048931,4.766247749 L5.417048931,4.766247749 C5.227056026,4.956240654 4.96909523,5.063091278 4.700405121,5.063091278 L4.700405121,5.063091278 C4.431714535,5.063091278 4.173754215,4.956240654 3.983761311,4.766247749 L3.983761311,4.766247749 C3.793768406,4.576255322 3.686917782,4.318294525 3.686917782,4.049603939 L3.686917782,4.049603939 C3.686917782,3.78091383 3.793768406,3.522953272 3.983761311,3.332960367 L3.983761311,3.332960367 C4.173754215,3.142967463 4.431714535,3.036116838 4.700405121,3.036116838 L4.700405121,3.036116838 C4.96909523,3.036116838 5.227056026,3.142967463 5.417048931,3.332960367 L5.417048931,3.332960367 C5.607041359,3.522953272 5.713891983,3.78091383 5.713891983,4.049603939 M5.713891983,7.084274292 C5.713891983,7.352964401 5.607041359,7.610925198 5.417048931,7.800918102 L5.417048931,7.800918102 C5.227056026,7.99091053 4.96909523,8.097761154 4.700405121,8.097761154 L4.700405121,8.097761154 C4.431714535,8.097761154 4.173754215,7.99091053 3.983761311,7.800918102 L3.983761311,7.800918102 C3.793768406,7.610925198 3.686917782,7.352964401 3.686917782,7.084274292 L3.686917782,7.084274292 C3.686917782,6.815583706 3.793768406,6.55762291 3.983761311,6.367630005 L3.983761311,6.367630005 C4.173754215,6.177637577 4.431714535,6.070786953 4.700405121,6.070786953 L4.700405121,6.070786953 C4.96909523,6.070786953 5.227056026,6.177637577 5.417048931,6.367630005 L5.417048931,6.367630005 C5.607041359,6.55762291 5.713891983,6.815583706 5.713891983,7.084274292 M5.713891983,10.119668007 C5.713891983,10.38835907 5.607041359,10.646318436 5.417048931,10.83631134 L5.417048931,10.83631134 C5.227056026,11.026304245 4.96909523,11.133155823 4.700405121,11.133155823 L4.700405121,11.133155823 C4.431714535,11.133155823 4.173754215,11.026304245 3.983761072,10.83631134 L3.983761072,10.83631134 C3.793768406,10.646318436 3.686917782,10.38835907 3.686917782,10.119668007 L3.686917782,10.119668007 C3.686917782,9.850976944 3.793768406,9.593017578 3.983761072,9.403024673 L3.983761072,9.403024673 C4.173754215,9.213031769 4.431714535,9.106180191 4.700405121,9.106180191 L4.700405121,9.106180191 C4.96909523,9.106180191 5.227056026,9.213031769 5.417048931,9.403024673 L5.417048931,9.403024673 C5.607041359,9.593017578 5.713891983,9.850976944 5.713891983,10.119668007 M9.401536942,1.014210224 C9.401536942,1.282900572 9.294687271,1.54086113 9.104694366,1.730853915 L9.104694366,1.730853915 C8.914701462,1.920846701 8.656740189,2.027697325 8.388050079,2.027697325 L8.388050079,2.027697325 C8.11935997,2.027697325 7.861399174,1.920846701 7.671406269,1.730853915 L7.671406269,1.730853915 C7.481413841,1.54086113 7.374563217,1.282900572 7.374563217,1.014210224 L7.374563217,1.014210224 C7.374563217,0.745519817 7.481413841,0.487559378 7.671406269,0.297566593 L7.671406269,0.297566593 C7.861399174,0.107573792 8.11935997,0.000723124 8.388050079,0.000723124 L8.388050079,0.000723124 C8.656740189,0.000723124 8.914701462,0.107573792 9.104694366,0.297566593 L9.104694366,0.297566593 C9.294687271,0.487559378 9.401536942,0.745519817 9.401536942,1.014210224 M9.401536942,4.049603939 C9.401536942,4.318294525 9.294687271,4.576255322 9.104694366,4.766247749 L9.104694366,4.766247749 C8.914701462,4.956240654 8.656740189,5.063091278 8.388050079,5.063091278 L8.388050079,5.063091278 C8.11935997,5.063091278 7.861399174,4.956240654 7.671406269,4.766247749 L7.671406269,4.766247749 C7.481413841,4.576255322 7.374563217,4.318294525 7.374563217,4.049603939 L7.374563217,4.049603939 C7.374563217,3.78091383 7.481413841,3.522953272 7.671406269,3.332960367 L7.671406269,3.332960367 C7.861399174,3.142967463 8.11935997,3.036116838 8.388050079,3.036116838 L8.388050079,3.036116838 C8.656740189,3.036116838 8.914701462,3.142967463 9.104694366,3.332960367 L9.104694366,3.332960367 C9.294687271,3.522953272 9.401536942,3.78091383 9.401536942,4.049603939 M9.401536942,7.084274292 C9.401536942,7.352964401 9.294687271,7.610925198 9.104694366,7.800918102 L9.104694366,7.800918102 C8.914701462,7.99091053 8.656740189,8.097761154 8.388050079,8.097761154 L8.388050079,8.097761154 C8.11935997,8.097761154 7.861399174,7.99091053 7.671406269,7.800918102 L7.671406269,7.800918102 C7.481413841,7.610925198 7.374563217,7.352964401 7.374563217,7.084274292 L7.374563217,7.084274292 C7.374563217,6.815583706 7.481413841,6.55762291 7.671406269,6.367630005 L7.671406269,6.367630005 C7.861399174,6.177637577 8.11935997,6.070786953 8.388050079,6.070786953 L8.388050079,6.070786953 C8.656740189,6.070786953 8.914701462,6.177637577 9.104694366,6.367630005 L9.104694366,6.367630005 C9.294687271,6.55762291 9.401536942,6.815583706 9.401536942,7.084274292 M9.401536942,10.119668007 C9.401536942,10.38835907 9.294687271,10.646318436 9.104694366,10.83631134 L9.104694366,10.83631134 C8.914701462,11.026304245 8.656740189,11.133155823 8.388050079,11.133155823 L8.388050079,11.133155823 C8.11935997,11.133155823 7.861399174,11.026304245 7.671406269,10.83631134 L7.671406269,10.83631134 C7.481413841,10.646318436 7.374563217,10.38835907 7.374563217,10.119668007 L7.374563217,10.119668007 C7.374563217,9.850976944 7.481413841,9.593017578 7.671406269,9.403024673 L7.671406269,9.403024673 C7.861399174,9.213031769 8.11935997,9.106180191 8.388050079,9.106180191 L8.388050079,9.106180191 C8.656740189,9.106180191 8.914701462,9.213031769 9.104694366,9.403024673 L9.104694366,9.403024673 C9.294687271,9.593017578 9.401536942,9.850976944 9.401536942,10.119668007 ' stroke='none' stroke-width='0.0' fill='#A5A5A5'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,-53.14961,-42.109425)'>
+      <text x='9.705725' y='0.0' class='TextStyle1' fill='#555555' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,19.001837)'>Принтер/копировальный аппарат/</text>
+      <text x='72.79654' y='12.0' class='TextStyle1' fill='#555555' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,19.001837)'>сканер</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,350.33246,424.06757)' v:mID='49.0'>
+     <title>Dynamic connector.78</title>
+     <userDefs>
+      <ud nameU='visNavOrder' val='1984'/>
+     </userDefs>
+     <path d='M0,4.589300156 L0,27.147733688 L0,27.147733688 L254.543823242,27.147733688 L254.543823242,27.147733688 L254.543823242,9.583927155 ' stroke='#A5A5A5' stroke-width='1.0' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,314.8994,412.44095)' v:mID='50.0'>
+     <title>Dynamic connector.119</title>
+     <userDefs>
+      <ud nameU='visNavOrder' val='625'/>
+     </userDefs>
+     <path d='M0,0 L-228.557037354,0 L-228.557037354,0 L-228.557037354,-80.479232788 ' stroke='#A5A5A5' stroke-width='1.0' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,256.86005,283.2535)' v:mID='51.0'>
+     <title>Dynamic connector.120</title>
+     <userDefs>
+      <ud nameU='visNavOrder' val='1750'/>
+     </userDefs>
+     <path d='M0,0 L0,111.470870972 L0,111.470870972 L58.039367676,111.470870972 ' stroke='#A5A5A5' stroke-width='1.0' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,569.4433,367.3541)' v:mID='52.0'>
+     <title>LCD Monitor</title>
+     <userDefs>
+      <ud nameU='visNavOrder' val='2500'/>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='ShapeClass' val='5'/>
+      <ud nameU='SolSH' val='{BF0433D9-CD73-4EB5-8390-8653BE590246}'/>
+      <ud nameU='visLegendShape' val='2'/>
+     </userDefs>
+     <custProps>
+      <cp nameU='AssetNumber' lbl='Инвентарный номер' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='SerialNumber' lbl='Серийный номер' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Location' lbl='Размещение' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Building' lbl='Здание' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Room' lbl='комната' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Manufacturer' lbl='Изготовитель' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ProductNumber' lbl='Номер товара' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='PartNumber' lbl='Код позиции' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ProductDescription' lbl='Описание товара' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NetworkName' lbl='Сетевое имя' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='IPAddress' lbl='IP-адрес' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='SubnetMask' lbl='Маска подсети' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='AdminInterface' lbl='Интерфейс администратора' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NumberofPorts' lbl='Число портов' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='CommunityString' lbl='Строка сообщества' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NetworkDescription' lbl='Сетевое описание' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='MACAddress' lbl='MAC-адрес' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='CPU' lbl='ЦП' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Memory' lbl='Память' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='OperatingSystem' lbl='Операционная система' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='HardDriveSize' lbl='Емкость жесткого диска' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ShapeClass' lbl='ShapeClass' type='0.0' langID='1049.0' val='Оборудование'/>
+      <cp nameU='ShapeType' lbl='ShapeType' type='0.0' langID='1049.0' val='Периферийное устройство'/>
+      <cp nameU='SubShapeType' lbl='SubShapeType' type='0.0' langID='1049.0' val='Монитор'/>
+     </custProps>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,4.568737)' v:mID='53.0'>
+      <title>Sheet.53</title>
+      <path d='M70.866142273,13.516300201 L70.866142273,61.728668213 L70.866142273,61.728668213 L0,61.728668213 L0,61.728668213 L0,13.516300201 L0,13.516300201 L70.866142273,13.516300201 M42.959766388,13.516300201 L27.905670166,13.516300201 L27.905670166,13.516300201 L27.905670166,8.545040131 L27.905670166,8.545040131 C22.763622284,7.785354614 19.256458282,6.273779869 19.256458282,4.532598495 L19.256458282,4.532598495 C19.256458282,2.028897762 26.499687195,0 35.433074951,0 L35.433074951,0 C44.365749359,0 51.609687805,2.028189182 51.609687805,4.532598495 L51.609687805,4.532598495 C51.609687805,6.273779869 48.10181427,7.785354614 42.959766388,8.545040131 L42.959766388,8.545040131 L42.959766388,13.516300201 ' stroke='#A5A5A5' stroke-width='2.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,2.851654,20.93669)' v:mID='54.0'>
+      <title>Sheet.54</title>
+      <userDefs>
+       <ud nameU='SurroundingRegionColor' val='#ffffff'/>
+      </userDefs>
+      <path d='M65.163543701,42.509059906 L-0.000000119,42.509059906 L-0.000000119,42.509059906 L-0.000000119,0 L-0.000000119,0 L65.163543701,0 L65.163543701,0 L65.163543701,42.509059906 ' stroke='#A5A5A5' stroke-width='2.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,-53.14961,-32.003674)'>
+      <text x='16.341467' y='0.0' class='TextStyle1' fill='#555555' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,19.001837)'>Интернет-телевизор с плоским</text>
+      <text x='69.33219' y='12.0' class='TextStyle1' fill='#555555' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,19.001837)'>экраном</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,433.4585,285.9208)' v:mID='55.0'>
+     <title>Dynamic connector</title>
+     <userDefs>
+      <ud nameU='visNavOrder' val='1937'/>
+     </userDefs>
+     <path d='M0,0 L0,126.52015686 L0,126.52015686 L-47.692913055,126.52015686 ' stroke='#A5A5A5' stroke-width='1.0' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,314.8994,377.00787)' v:mID='56.0'>
+     <title>Router.104</title>
+     <userDefs>
+      <ud nameU='visNavOrder' val='1500'/>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='ShapeClass' val='5'/>
+      <ud nameU='SolSH' val='{BF0433D9-CD73-4EB5-8390-8653BE590246}'/>
+      <ud nameU='visLegendShape' val='2'/>
+     </userDefs>
+     <custProps>
+      <cp nameU='AssetNumber' lbl='Инвентарный номер' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='SerialNumber' lbl='Серийный номер' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Location' lbl='Размещение' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Building' lbl='Здание' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Room' lbl='комната' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Manufacturer' lbl='Изготовитель' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ProductNumber' lbl='Номер товара' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='PartNumber' lbl='Код позиции' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ProductDescription' lbl='Описание товара' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NetworkName' lbl='Сетевое имя' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='IPAddress' lbl='IP-адрес' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='SubnetMask' lbl='Маска подсети' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='AdminInterface' lbl='Интерфейс администратора' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NumberofPorts' lbl='Число портов' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='CommunityString' lbl='Строка сообщества' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NetworkDescription' lbl='Сетевое описание' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='MACAddress' lbl='MAC-адрес' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ShapeClass' lbl='ShapeClass' type='0.0' langID='1049.0' val='Оборудование'/>
+      <cp nameU='ShapeType' lbl='ShapeType' type='0.0' langID='1049.0' val='Устройство'/>
+      <cp nameU='SubShapeType' lbl='SubShapeType' type='0.0' langID='1049.0' val='Маршрутизатор'/>
+     </custProps>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,19.217125)' v:mID='57.0'>
+      <title>Sheet.57</title>
+      <path d='M65.366928101,0 L66.784255981,2.834645748 L66.784255981,2.834645748 L4.006062984,2.834645748 L4.006062984,2.834645748 L5.42338562,0 L5.42338562,0 L65.366928101,0 M70.866142273,32.43188858 L0,32.43188858 L0,32.43188858 L0,4.012441158 L0,4.012441158 L70.866142273,4.012441158 L70.866142273,4.012441158 L70.866142273,32.43188858 ' stroke='#A5A5A5' stroke-width='2.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,48.32433,28.849962)' v:mID='58.0'>
+      <title>Sheet.58</title>
+      <path d='M0,0 L18.447164536,0 L18.447164536,0 L18.447164536,17.506771088 L18.447164536,17.506771088 L0,17.506771088 L0,17.506771088 L0,0 Z' stroke='#FDBF00' stroke-width='2.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,7.963228,32.870197)' v:mID='59.0'>
+      <title>Sheet.59</title>
+      <userDefs>
+       <ud nameU='SurroundingRegionColor' val='#ffffff'/>
+      </userDefs>
+      <path d='M4.985433102,9.411024094 L0,9.411024094 L0,9.411024094 L0,7.019291878 L0,7.019291878 L1.296141863,7.019291878 L1.296141863,7.019291878 L1.296141863,5.7727561 L1.296141863,5.7727561 L3.688582659,5.7727561 L3.688582659,5.7727561 L3.688582659,7.019291878 L3.688582659,7.019291878 L4.985433102,7.019291878 L4.985433102,7.019291878 L4.985433102,9.411024094 M12.994016647,9.411024094 L8.009291649,9.411024094 L8.009291649,9.411024094 L8.009291649,7.019291878 L8.009291649,7.019291878 L9.304724693,7.019291878 L9.304724693,7.019291878 L9.304724693,5.7727561 L9.304724693,5.7727561 L11.698583603,5.7727561 L11.698583603,5.7727561 L11.698583603,7.019291878 L11.698583603,7.019291878 L12.994016647,7.019291878 L12.994016647,7.019291878 L12.994016647,9.411024094 M21.003307343,9.411024094 L16.018583298,9.411024094 L16.018583298,9.411024094 L16.018583298,7.019291878 L16.018583298,7.019291878 L17.314016342,7.019291878 L17.314016342,7.019291878 L17.314016342,5.7727561 L17.314016342,5.7727561 L19.707166672,5.7727561 L19.707166672,5.7727561 L19.707166672,7.019291878 L19.707166672,7.019291878 L21.003307343,7.019291878 L21.003307343,7.019291878 L21.003307343,9.411024094 M29.011890411,9.411024094 L24.027166367,9.411024094 L24.027166367,9.411024094 L24.027166367,7.019291878 L24.027166367,7.019291878 L25.322599411,7.019291878 L25.322599411,7.019291878 L25.322599411,5.7727561 L25.322599411,5.7727561 L27.715747833,5.7727561 L27.715747833,5.7727561 L27.715747833,7.019291878 L27.715747833,7.019291878 L29.011890411,7.019291878 L29.011890411,7.019291878 L29.011890411,9.411024094 M29.011890411,3.636850357 L24.027166367,3.636850357 L24.027166367,3.636850357 L24.027166367,1.243700743 L24.027166367,1.243700743 L25.322599411,1.243700743 L25.322599411,1.243700743 L25.322599411,0 L25.322599411,0 L27.715747833,0 L27.715747833,0 L27.715747833,1.243700743 L27.715747833,1.243700743 L29.011890411,1.243700743 L29.011890411,1.243700743 L29.011890411,3.636850357 M21.003307343,3.636850357 L16.018583298,3.636850357 L16.018583298,3.636850357 L16.018583298,1.243700743 L16.018583298,1.243700743 L17.314016342,1.243700743 L17.314016342,1.243700743 L17.314016342,0 L17.314016342,0 L19.707166672,0 L19.707166672,0 L19.707166672,1.243700743 L19.707166672,1.243700743 L21.003307343,1.243700743 L21.003307343,1.243700743 L21.003307343,3.636850357 M12.994016647,3.636850357 L8.009291649,3.636850357 L8.009291649,3.636850357 L8.009291649,1.243700743 L8.009291649,1.243700743 L9.304724693,1.243700743 L9.304724693,1.243700743 L9.304724693,0 L9.304724693,0 L11.698583603,0 L11.698583603,0 L11.698583603,1.243700743 L11.698583603,1.243700743 L12.994016647,1.243700743 L12.994016647,1.243700743 L12.994016647,3.636850357 M4.985433102,3.636850357 L0,3.636850357 L0,3.636850357 L0,1.243700743 L0,1.243700743 L1.296141863,1.243700743 L1.296141863,1.243700743 L1.296141863,0 L1.296141863,0 L3.688582659,0 L3.688582659,0 L3.688582659,1.243700743 L3.688582659,1.243700743 L4.985433102,1.243700743 L4.985433102,1.243700743 L4.985433102,3.636850357 ' stroke='none' stroke-width='0.0' fill='#A5A5A5'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,49.755825,29.87823)' v:mID='60.0'>
+      <title>Sheet.60</title>
+      <userDefs>
+       <ud nameU='SurroundingRegionColor' val='#ffffff'/>
+      </userDefs>
+      <path d='M7.434566975,1.841102362 L6.184488297,3.103937149 L6.184488297,3.103937149 L6.184488297,1.635590553 L6.184488297,1.635590553 L7.958976269,0 L7.958976269,0 L9.734882355,1.62637794 L9.734882355,1.62637794 L9.734882355,3.109606504 L9.734882355,3.109606504 L8.494724274,1.854566932 L8.494724274,1.854566932 L8.494724274,6.171023846 L8.494724274,6.171023846 L7.434566975,6.171023846 L7.434566975,6.171023846 L7.434566975,1.841102362 M11.591574669,8.249527931 L12.851574898,9.500314713 L12.851574898,9.500314713 L11.385354042,9.500314713 L11.385354042,9.500314713 L9.748347282,7.72511816 L9.748347282,7.72511816 L11.378976822,5.949212551 L11.378976822,5.949212551 L12.857953072,5.949212551 L12.857953072,5.949212551 L11.602912903,7.189370155 L11.602912903,7.189370155 L15.920079231,7.189370155 L15.920079231,7.189370155 L15.920079231,8.249527931 L15.920079231,8.249527931 L11.591574669,8.249527931 M8.4848032,13.60771656 L9.734882355,12.346299171 L9.734882355,12.346299171 L9.734882355,13.813937187 L9.734882355,13.813937187 L7.958976269,15.45023632 L7.958976269,15.45023632 L6.184488297,13.818897247 L6.184488297,13.818897247 L6.184488297,12.339212418 L6.184488297,12.339212418 L7.423937321,13.596378326 L7.423937321,13.596378326 L7.423937321,9.277795792 L7.423937321,9.277795792 L8.4848032,9.277795792 L8.4848032,9.277795792 L8.4848032,13.60771656 M4.328503609,7.199291229 L3.067086697,5.949212551 L3.067086697,5.949212551 L4.533307076,5.949212551 L4.533307076,5.949212551 L6.172441006,7.72511816 L6.172441006,7.72511816 L4.543937206,9.500314713 L4.543937206,9.500314713 L3.061417341,9.500314713 L3.061417341,9.500314713 L4.316456795,8.259449005 L4.316456795,8.259449005 L0,8.259449005 L0,8.259449005 L0,7.199291229 L0,7.199291229 L4.328503609,7.199291229 ' stroke='none' stroke-width='0.0' fill='#A5A5A5'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,-3.8765907,0.44522285)'>
+      <text x='5.0664945' y='0.0' class='TextStyle1' fill='#555555' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.001819)'>Маршрутизато</text>
+      <text x='36.528896' y='12.0' class='TextStyle1' fill='#555555' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.001819)'>р</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,220.86005,223.96585)' v:mID='61.0'>
+     <title>PC.115</title>
+     <userDefs>
+      <ud nameU='visNavOrder' val='1875'/>
+      <ud nameU='visVersion' val='15'/>
+      <ud nameU='ShapeClass' val='5'/>
+      <ud nameU='SolSH' val='{BF0433D9-CD73-4EB5-8390-8653BE590246}'/>
+      <ud nameU='visLegendShape' val='2'/>
+     </userDefs>
+     <custProps>
+      <cp nameU='AssetNumber' lbl='Инвентарный номер' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='SerialNumber' lbl='Серийный номер' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Location' lbl='Размещение' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Building' lbl='Здание' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Room' lbl='комната' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Manufacturer' lbl='Изготовитель' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ProductNumber' lbl='Номер товара' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='PartNumber' lbl='Код позиции' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ProductDescription' lbl='Описание товара' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NetworkName' lbl='Сетевое имя' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='IPAddress' lbl='IP-адрес' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='SubnetMask' lbl='Маска подсети' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='AdminInterface' lbl='Интерфейс администратора' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NumberofPorts' lbl='Число портов' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='CommunityString' lbl='Строка сообщества' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='NetworkDescription' lbl='Сетевое описание' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='MACAddress' lbl='MAC-адрес' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='CPU' lbl='ЦП' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Memory' lbl='Память' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='OperatingSystem' lbl='Операционная система' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='HardDriveSize' lbl='Емкость жесткого диска' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='Department' lbl='Отдел' type='0.0' langID='1049.0' val='0'/>
+      <cp nameU='ShapeClass' lbl='ShapeClass' type='0.0' langID='1049.0' val='Оборудование'/>
+      <cp nameU='ShapeType' lbl='ShapeType' type='0.0' langID='1049.0' val='Компьютер'/>
+      <cp nameU='SubShapeType' lbl='SubShapeType' type='0.0' langID='1049.0' val='Настольный компьютер'/>
+      <cp nameU='BelongsTo' lbl='Владелец' type='0.0' langID='1049.0' val='0'/>
+     </custProps>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,4.801794)' v:mID='62.0'>
+      <title>Sheet.62</title>
+      <path d='M48.773838043,17.682090759 L48.773838043,11.603871346 L48.773838043,11.603871346 L52.450237274,11.603871346 L52.450237274,11.603871346 L55.921928406,7.251130581 L55.921928406,7.251130581 L72,7.251130581 L72,7.251130581 L72,62.396411896 L72,62.396411896 L48.773838043,62.396411896 L48.773838043,62.396411896 L48.773838043,54.48588562 L48.773838043,54.48588562 L58.736221313,54.48588562 L58.736221313,54.48588562 L58.736221313,17.682090759 L58.736221313,17.682090759 L48.773838043,17.682090759 M58.736221313,54.48588562 L3.590201378,54.48588562 L3.590201378,54.48588562 L3.590201378,17.682090759 L3.590201378,17.682090759 L58.736221313,17.682090759 L58.736221313,17.682090759 L58.736221313,54.48588562 M61.705337524,0 L52.450237274,11.603871346 L52.450237274,11.603871346 L9.25583744,11.603871346 L9.25583744,11.603871346 L0,0 L0,0 L61.705337524,0 M35.700141907,17.682090759 L26.004461288,17.682090759 L26.004461288,17.682090759 L26.004461288,11.603871346 L26.004461288,11.603871346 L35.700141907,11.603871346 L35.700141907,11.603871346 L35.700141907,17.682090759 ' stroke='#A5A5A5' stroke-width='2.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,7.1656666,25.799273)' v:mID='63.0'>
+      <title>Sheet.63</title>
+      <userDefs>
+       <ud nameU='SurroundingRegionColor' val='#ffffff'/>
+      </userDefs>
+      <path d='M48.073184967,29.838527679 L0,29.838527679 L0,29.838527679 L0,0 L0,0 L48.073184967,0 L48.073184967,0 L48.073184967,29.838527679 L48.073184967,29.838527679 L48.073184967,29.838527679 L48.073184967,29.838527679 L48.073184967,29.838527679 ' stroke='#A5A5A5' stroke-width='2.0' stroke-linecap='round' fill='#FFFFFF'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,8.397516,7.1969795)' v:mID='64.0'>
+      <title>Sheet.64</title>
+      <userDefs>
+       <ud nameU='SurroundingRegionColor' val='#ffffff'/>
+      </userDefs>
+      <path d='M54.300964355,53.828334808 L59.274051666,53.828334808 L59.274051666,53.828334808 L59.274051666,55.762313843 L59.274051666,55.762313843 L54.300964355,55.762313843 L54.300964355,55.762313843 L54.300964355,53.828334808 M54.300964355,50.374801636 L59.274051666,50.374801636 L59.274051666,50.374801636 L59.274051666,52.30878067 L59.274051666,52.30878067 L54.300964355,52.30878067 L54.300964355,52.30878067 L54.300964355,50.374801636 M42.135684967,4.500092506 L39.394958496,4.500092506 L39.394958496,4.500092506 L40.928882599,2.79524374 L40.928882599,2.79524374 L43.884002686,2.79524374 L43.884002686,2.79524374 L42.135684967,4.500092506 M39.034690857,7.527412891 L36.672653198,7.527412891 L36.672653198,7.527412891 L38.322986603,5.69363308 L38.322986603,5.69363308 L40.91488266,5.69363308 L40.91488266,5.69363308 L39.034690857,7.527412891 M37.918502808,4.500092506 L35.175571442,4.500092506 L35.175571442,4.500092506 L36.3801651,2.79524374 L36.3801651,2.79524374 L39.33675766,2.79524374 L39.33675766,2.79524374 L37.918502808,4.500092506 M35.401756287,7.527412891 L33.038986206,7.527412891 L33.038986206,7.527412891 L34.333461761,5.69363308 L34.333461761,5.69363308 L36.926834106,5.69363308 L36.926834106,5.69363308 L35.401756287,7.527412891 M33.69985199,4.500092506 L30.95618248,4.500092506 L30.95618248,4.500092506 L31.832183838,2.79524374 L31.832183838,2.79524374 L34.790252686,2.79524374 L34.790252686,2.79524374 L33.69985199,4.500092506 M31.774715424,7.527412891 L29.411211014,7.527412891 L29.411211014,7.527412891 L30.35720253,5.655322075 L30.35720253,5.655322075 L32.954994202,5.655322075 L32.954994202,5.655322075 L31.774715424,7.527412891 M29.481937408,4.500092506 L26.739004135,4.500092506 L26.739004135,4.500092506 L27.284938812,2.79524374 L27.284938812,2.79524374 L30.243005753,2.79524374 L30.243005753,2.79524374 L29.481937408,4.500092506 M28.191144943,7.399218082 L25.811431885,7.399218082 L25.811431885,7.399218082 L26.369155884,5.655322075 L26.369155884,5.655322075 L28.967685699,5.655322075 L28.967685699,5.655322075 L28.191144943,7.399218082 M25.264022827,4.500092506 L22.521087646,4.500092506 L22.521087646,4.500092506 L22.737695694,2.79524374 L22.737695694,2.79524374 L25.69502449,2.79524374 L25.69502449,2.79524374 L25.264022827,4.500092506 M24.569263458,7.254814148 L22.171867371,7.254814148 L22.171867371,7.254814148 L22.388473511,5.547756195 L22.388473511,5.547756195 L24.999528885,5.547756195 L24.999528885,5.547756195 L24.569263458,7.254814148 M20.881813049,7.254814148 L18.485151291,7.254814148 L18.485151291,7.254814148 L18.371692657,5.547756195 L18.371692657,5.547756195 L20.982748032,5.547756195 L20.982748032,5.547756195 L20.881813049,7.254814148 M21.045372009,4.500092506 L18.303173065,4.500092506 L18.303173065,4.500092506 L18.189714432,2.79524374 L18.189714432,2.79524374 L21.147045135,2.79524374 L21.147045135,2.79524374 L21.045372009,4.500092506 M17.195833206,7.254814148 L14.798436165,7.254814148 L14.798436165,7.254814148 L14.356384277,5.547756195 L14.356384277,5.547756195 L16.967439651,5.547756195 L16.967439651,5.547756195 L17.195833206,7.254814148 M16.827455521,4.500092506 L14.084522247,4.500092506 L14.084522247,4.500092506 L13.642469406,2.79524374 L13.642469406,2.79524374 L16.599798203,2.79524374 L16.599798203,2.79524374 L16.827455521,4.500092506 M31.870494843,1.705584884 L12.520394325,1.705584884 L12.520394325,1.705584884 L12.01940155,0 L12.01940155,0 L32.708919525,0 L32.708919525,0 L31.870494843,1.705584884 M13.509117126,7.254814148 L11.111720085,7.254814148 L11.111720085,7.254814148 L10.340339661,5.547756195 L10.340339661,5.547756195 L12.951395035,5.547756195 L12.951395035,5.547756195 L13.509117126,7.254814148 M12.609540939,4.500092506 L9.865869522,4.500092506 L9.865869522,4.500092506 L9.094489098,2.79524374 L9.094489098,2.79524374 L12.051818848,2.79524374 L12.051818848,2.79524374 L12.609540939,4.500092506 M9.822402,7.254814148 L7.425741196,7.254814148 L7.425741196,7.254814148 L6.32429409,5.547756195 L6.32429409,5.547756195 L8.935349464,5.547756195 L8.935349464,5.547756195 L9.822402,7.254814148 M8.391625404,4.500092506 L5.648691177,4.500092506 L5.648691177,4.500092506 L4.547244549,2.79524374 L4.547244549,2.79524374 L7.503837109,2.79524374 L7.503837109,2.79524374 L8.391625404,4.500092506 M6.135685444,7.254814148 L3.739762306,7.254814148 L3.739762306,7.254814148 L2.308249474,5.547756195 L2.308249474,5.547756195 L4.919304848,5.547756195 L4.919304848,5.547756195 L6.135685444,7.254814148 M4.172973156,4.500092506 L1.430775881,4.500092506 L1.430775881,4.500092506 L0,2.79524374 L0,2.79524374 L2.956592798,2.79524374 L2.956592798,2.79524374 L4.172973156,4.500092506 ' stroke='none' stroke-width='0.0' fill='#A5A5A5'  fill-rule='evenodd'/>
+     </g>
+     <g transform='matrix(1.0,0.0,0.0,1.0,-4.549881,-20.003635)'>
+      <text x='20.630447' y='0.0' class='TextStyle1' fill='#555555' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.001819)'>Рабочая</text>
+      <text x='21.904861' y='12.0' class='TextStyle1' fill='#555555' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.001819)'>станция</text>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <style type='text/css'><![CDATA[ .TextStyle1 {font-family:Arial Unicode MS;font-size:10.0px;}.TextStyle0 {font-family:Arial Unicode MS;font-size:12.0px;} ]]></style>
+</svg>
