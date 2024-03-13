@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import { dia, ui, shapes } from '@joint/plus';
-import {convertSvgToJointCells} from './convertToJointCells.js'
+import {convertSvgToAutograph} from './converter/index.js'
 import {scheme1} from './svg/scheme1.js'
 import {scheme2} from './svg/scheme2.js'
 import {scheme3} from './svg/scheme3.js'
@@ -15,12 +15,12 @@ function App() {
   useEffect(() => {
     const graph = new dia.Graph({}, { cellNamespace: shapes });
 
-    const { paperSize, cells } = convertSvgToJointCells(currentFile)
+    const { pageSize, cells } = convertSvgToAutograph(currentFile)
 
     const paper = new dia.Paper({
         model: graph,
-        width: paperSize.width,
-        height: paperSize.height,
+        width: pageSize.width,
+        height: pageSize.height,
         background: {
           color: '#F8F9FA',
         },
