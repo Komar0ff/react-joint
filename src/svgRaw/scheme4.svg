@@ -1,0 +1,332 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:v='http://schemas.microsoft.com/visio/2003/SVGExtensions/' xml:space='preserve' xmlns:xlink='http://www.w3.org/1999/xlink' width='612.0pt' height='792.0pt' viewBox='0 0 612.0 792.0'>
+ <v:documentProperties>
+  <v:userDefs>
+   <v:ud v:nameU='msvNoAutoConnect' v:val='1'/>
+  </v:userDefs>
+ </v:documentProperties>
+ <g id='SFixTitle'/>
+ <g id='SContent'>
+  <g>
+   <g transform='matrix(1.0,0.0,0.0,-1.0,0.0,792.0)'>
+    <g transform='matrix(1.0,0.0,0.0,1.0,73.67154,253.70793)' v:mID='1.0'>
+     <title>Shape1</title>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,109.11261,253.70793)' v:mID='2.0'>
+     <title>Shape2</title>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,109.112595,329.2725)' v:mID='3.0'>
+     <title>Shape3</title>
+     <path d='M0,252.68572998 L0,0 L0,0 L412.264068604,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,1.0,-0.0,521.1203,329.40714)' v:mID='6.0'>
+     <title>Shape6</title>
+     <path d='M0,0 L42.519687653,0 L42.519687653,0 L42.519687653,7.086614132 M8.503936768,5.31496048 L8.503936768,0 M17.007873535,5.31496048 L17.007873535,0 M25.51181221,5.31496048 L25.51181221,0 M34.01574707,5.31496048 L34.01574707,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,1.0,-0.0,521.12036,371.92682)' v:mID='7.0'>
+     <title>Shape7</title>
+     <path d='M0,0 L42.519687653,0 L42.519687653,0 L42.519687653,7.086614132 M8.503936768,5.31496048 L8.503936768,0 M17.007873535,5.31496048 L17.007873535,0 M25.51181221,5.31496048 L25.51181221,0 M34.01574707,5.31496048 L34.01574707,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,1.0,-0.0,521.1412,414.50232)' v:mID='8.0'>
+     <title>Shape8</title>
+     <path d='M0,0 L42.519687653,0 L42.519687653,0 L42.519687653,6.974999905 M8.503936768,5.231250286 L8.503936768,0 M17.007873535,5.231250286 L17.007873535,0 M25.51181221,5.231250286 L25.51181221,0 M34.01574707,5.231250286 L34.01574707,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,1.0,-0.0,521.1773,457.02197)' v:mID='9.0'>
+     <title>Shape9</title>
+     <path d='M0,0 L42.519687653,0 L42.519687653,0 L42.519687653,6.974999905 M8.503936768,5.231250286 L8.503936768,0 M17.007873535,5.231250286 L17.007873535,0 M25.51181221,5.231250286 L25.51181221,0 M34.01574707,5.231250286 L34.01574707,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,1.0,-0.0,521.1761,499.54166)' v:mID='10.0'>
+     <title>Shape10</title>
+     <path d='M0,0 L42.519687653,0 L42.519687653,0 L42.519687653,6.974999905 M8.503936768,5.231250286 L8.503936768,0 M17.007873535,5.231250286 L17.007873535,0 M25.51181221,5.231250286 L25.51181221,0 M34.01574707,5.231250286 L34.01574707,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.99999964,8.726645E-4,8.726645E-4,-0.99999964,531.03455,381.13116)' v:mID='11.0'>
+     <title>Shape11</title>
+     <g transform='matrix(0.99986255,-0.01658008,-0.01658008,-0.99986255,1.0636778,30.458893)'>
+      <text x='10.9890785' y='6.9826255' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,24.751156)'>5</text>
+     </g>
+    </g>
+    <g transform='matrix(0.99999964,8.726645E-4,8.726645E-4,-0.99999964,531.03455,423.65085)' v:mID='12.0'>
+     <title>Shape12</title>
+     <g transform='matrix(0.99986255,-0.01658008,-0.01658008,-0.99986255,1.0636778,30.458893)'>
+      <text x='4.516739' y='6.9826255' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,24.751156)'>10</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,-1.0,509.32913,334.22845)' v:mID='13.0'>
+     <title>Shape13</title>
+     <g transform='matrix(1.0,0.0,0.0,-1.0,6.250393,30.461811)'>
+      <text x='10.9890785' y='6.9826255' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,24.751156)'>0</text>
+     </g>
+    </g>
+    <g transform='matrix(0.0,1.0,1.0,-0.0,521.1762,542.06134)' v:mID='14.0'>
+     <title>Shape14</title>
+     <path d='M0,0 L42.519687653,0 L42.519687653,0 L42.519687653,6.974999905 M8.503936768,5.231250286 L8.503936768,0 M17.007873535,5.231250286 L17.007873535,0 M25.51181221,5.231250286 L25.51181221,0 M34.01574707,5.231250286 L34.01574707,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.99999964,8.726645E-4,8.726645E-4,-0.99999964,531.03455,465.46188)' v:mID='15.0'>
+     <title>Shape15</title>
+     <g transform='matrix(0.99986255,-0.01658008,-0.01658008,-0.99986255,1.0636778,30.458893)'>
+      <text x='4.516739' y='6.9826255' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,24.751156)'>15</text>
+     </g>
+    </g>
+    <g transform='matrix(0.99999964,8.726645E-4,8.726645E-4,-0.99999964,531.03455,508.69022)' v:mID='16.0'>
+     <title>Shape16</title>
+     <g transform='matrix(0.99986255,-0.01658008,-0.01658008,-0.99986255,1.0636778,30.458893)'>
+      <text x='4.516739' y='6.9826255' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,24.751156)'>20</text>
+     </g>
+    </g>
+    <g transform='matrix(0.99999964,8.726645E-4,8.726645E-4,-0.99999964,531.03455,550.5013)' v:mID='17.0'>
+     <title>Shape17</title>
+     <g transform='matrix(0.99986255,-0.01658008,-0.01658008,-0.99986255,1.0636778,30.458893)'>
+      <text x='4.516739' y='6.9826255' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,24.751156)'>25</text>
+     </g>
+    </g>
+    <g transform='matrix(0.99999964,8.726645E-4,8.726645E-4,-0.99999964,531.03455,593.7296)' v:mID='18.0'>
+     <title>Shape18</title>
+     <g transform='matrix(0.99986255,-0.01658008,-0.01658008,-0.99986255,1.0636778,30.458893)'>
+      <text x='4.516739' y='6.9826255' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,24.751156)'>30</text>
+     </g>
+    </g>
+    <g transform='matrix(0.0,1.0,-1.0,-0.0,246.52914,315.87167)' v:mID='19.0'>
+     <title>Shape19</title>
+     <path d='M6.735826492,68.899604797 L13.471652985,68.899604797 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='#000000'  fill-rule='evenodd'/>
+     <path d='M13.471652985,137.799209595 L13.471652985,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,-1.0,-0.0,383.87485,315.87167)' v:mID='21.0'>
+     <title>Shape21</title>
+     <path d='M6.735826492,68.899604797 L13.471652985,68.899604797 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='#000000'  fill-rule='evenodd'/>
+     <path d='M13.471652985,137.799209595 L13.471652985,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,-1.0,-0.0,452.61496,315.87167)' v:mID='23.0'>
+     <title>Shape23</title>
+     <path d='M6.735826492,68.899604797 L13.471652985,68.899604797 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='#000000'  fill-rule='evenodd'/>
+     <path d='M13.471652985,137.799209595 L13.471652985,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,-1.0,-0.0,521.35516,315.87167)' v:mID='25.0'>
+     <title>Shape25</title>
+     <path d='M6.735826492,68.899604797 L13.471652985,68.899604797 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='#000000'  fill-rule='evenodd'/>
+     <path d='M13.471652985,137.799209595 L13.471652985,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,232.28505,329.2725)' v:mID='28.0'>
+     <title>Shape28</title>
+     <path d='M0,0 L28.346456528,0 L28.346456528,0 L28.346456528,85.436218262 L28.346456528,85.436218262 L0,85.436218262 L0,85.436218262 L0,0 ' stroke='none' stroke-width='0.0' fill='#10739E'  fill-rule='evenodd'/>
+     <g transform='matrix(1.0,0.0,0.0,1.0,-0.70866203,-0.7086601)'/>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,369.5386,329.27252)' v:mID='30.0'>
+     <title>Shape30</title>
+     <path d='M0,0 L28.346456528,0 L28.346456528,0 L28.346456528,208.034637451 L28.346456528,208.034637451 L0,208.034637451 L0,208.034637451 L0,0 ' stroke='none' stroke-width='0.0' fill='#10739E'  fill-rule='evenodd'/>
+     <g transform='matrix(1.0,0.0,0.0,1.0,-0.70866203,-0.70867157)'/>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,438.27875,329.27246)' v:mID='31.0'>
+     <title>Shape31</title>
+     <path d='M0,0 L28.346456528,0 L28.346456528,0 L28.346456528,152.759063721 L28.346456528,152.759063721 L0,152.759063721 L0,152.759063721 L0,0 ' stroke='none' stroke-width='0.0' fill='#10739E'  fill-rule='evenodd'/>
+     <g transform='matrix(1.0,0.0,0.0,1.0,-0.70866203,-0.7086563)'/>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,163.67955,503.29138)' v:mID='32.0'>
+     <title>Shape32</title>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,163.67955,518.1733)' v:mID='34.0'>
+     <title>Shape34</title>
+     <path d='M0,21.968503952 L27.637794495,21.968503952 L27.637794495,21.968503952 L27.637794495,0 L27.637794495,0 L0,0 L0,0 L0,21.968503952 Z' stroke='none' stroke-width='0.0' fill='#12AAB5'  fill-rule='evenodd'/>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,233.12837,418.96066)' v:mID='35.0'>
+     <title>Shape35</title>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,233.12837,446.4639)' v:mID='37.0'>
+     <title>Shape37</title>
+     <path d='M0,6.548390388 L26.929134369,6.548390388 L26.929134369,6.548390388 L26.929134369,0 L26.929134369,0 L0,0 L0,0 L0,6.548390388 Z' stroke='none' stroke-width='0.0' fill='#AE4132'  fill-rule='evenodd'/>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,301.15985,458.78745)' v:mID='38.0'>
+     <title>Shape38</title>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,301.15985,478.1623)' v:mID='40.0'>
+     <title>Shape40</title>
+     <path d='M0,37.225982666 L27.637794495,37.225982666 L27.637794495,37.225982666 L27.637794495,0 L27.637794495,0 L0,0 L0,0 L0,37.225982666 Z' stroke='none' stroke-width='0.0' fill='#AE4132'  fill-rule='evenodd'/>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,437.93152,508.69846)' v:mID='41.0'>
+     <title>Shape41</title>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,437.93152,522.8717)' v:mID='43.0'>
+     <title>Shape43</title>
+     <path d='M0,10.084251404 L28.346456528,10.084251404 L28.346456528,10.084251404 L28.346456528,0 L28.346456528,0 L0,0 L0,0 L0,10.084251404 Z' stroke='none' stroke-width='0.0' fill='#AE4132'  fill-rule='evenodd'/>
+    </g>
+    <g transform='matrix(0.0,1.0,-1.0,-0.0,109.111664,328.96066)' v:mID='44.0'>
+     <title>Shape44</title>
+     <path d='M0,0 L42.519687653,0 L42.519687653,0 L42.519687653,7.086614132 M8.503936768,5.314960957 L8.503936768,0 M17.007873535,5.314960957 L17.007873535,0 M25.51181221,5.314960957 L25.51181221,0 M34.01574707,5.314960957 L34.01574707,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,-1.0,-0.0,109.111664,371.48038)' v:mID='45.0'>
+     <title>Shape45</title>
+     <path d='M0,0 L42.519687653,0 L42.519687653,0 L42.519687653,7.086614132 M8.503936768,5.314960957 L8.503936768,0 M17.007873535,5.314960957 L17.007873535,0 M25.51181221,5.314960957 L25.51181221,0 M34.01574707,5.314960957 L34.01574707,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,-1.0,-0.0,109.02086,414.05585)' v:mID='46.0'>
+     <title>Shape46</title>
+     <path d='M0,0 L42.519687653,0 L42.519687653,0 L42.519687653,6.974999905 M8.503936768,5.231250286 L8.503936768,0 M17.007873535,5.231250286 L17.007873535,0 M25.51181221,5.231250286 L25.51181221,0 M34.01574707,5.231250286 L34.01574707,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,-1.0,-0.0,109.05708,456.57553)' v:mID='47.0'>
+     <title>Shape47</title>
+     <path d='M0,0 L42.519687653,0 L42.519687653,0 L42.519687653,6.974999905 M8.503936768,5.231250286 L8.503936768,0 M17.007873535,5.231250286 L17.007873535,0 M25.51181221,5.231250286 L25.51181221,0 M34.01574707,5.231250286 L34.01574707,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,-1.0,-0.0,109.05586,499.09525)' v:mID='48.0'>
+     <title>Shape48</title>
+     <path d='M0,0 L42.519687653,0 L42.519687653,0 L42.519687653,6.974999905 M8.503936768,5.231250286 L8.503936768,0 M17.007873535,5.231250286 L17.007873535,0 M25.51181221,5.231250286 L25.51181221,0 M34.01574707,5.231250286 L34.01574707,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,-1.0,-0.0,109.05586,541.6149)' v:mID='52.0'>
+     <title>Shape52</title>
+     <path d='M0,0 L42.519687653,0 L42.519687653,0 L42.519687653,6.974999905 M8.503936768,5.231250286 L8.503936768,0 M17.007873535,5.231250286 L17.007873535,0 M25.51181221,5.231250286 L25.51181221,0 M34.01574707,5.231250286 L34.01574707,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,-1.0,-0.0,315.26932,315.87167)' v:mID='57.0'>
+     <title>Shape57</title>
+     <path d='M6.735826492,68.899604797 L13.471652985,68.899604797 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='#000000'  fill-rule='evenodd'/>
+     <path d='M13.471652985,137.799209595 L13.471652985,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,369.892,541.5591)' v:mID='58.0'>
+     <title>Shape58</title>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,369.892,549.4678)' v:mID='60.0'>
+     <title>Shape60</title>
+     <path d='M0,7.681889534 L27.637794495,7.681889534 L27.637794495,7.681889534 L27.637794495,0 L27.637794495,0 L0,0 L0,0 L0,7.681889534 Z' stroke='none' stroke-width='0.0' fill='#12AAB5'  fill-rule='evenodd'/>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,227.46523,635.1024)' v:mID='61.0'>
+     <title>Shape61</title>
+     <g transform='matrix(1.0,0.0,0.0,1.0,-10.27559,-7.7952766)'>
+      <text x='0.0' y='9.898582' class='TextStyle1' fill='#000000' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,25.500473)'>Биржевая диаграмма</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,428.00223,297.70087)' v:mID='5810001.0'>
+     <title>Sheet.5810001</title>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'>
+      <text x='14.761389' y='0.0' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.491313)'>16 </text>
+      <text x='0.17163563' y='13.965251' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.491313)'>Д</text>
+      <text x='8.047546' y='13.965251' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.491313)'>екабря</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,357.13608,297.70087)' v:mID='5810003.0'>
+     <title>Sheet.5810003</title>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'>
+      <text x='20.941656' y='0.2173748' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.6)'>14</text>
+      <text x='4.735237' y='14.182626' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.491313)'>Декабря</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,287.2024,297.70087)' v:mID='5810007.0'>
+     <title>Sheet.5810007</title>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'>
+      <text x='20.941656' y='-6.7652507' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.6)'>1</text>
+      <text x='27.413996' y='-6.7652507' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.6)'>2</text>
+      <text x='6.272347' y='7.2000003' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.491313)'>&#160;Декабр</text>
+      <text x='24.26022' y='21.16525' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.491313)'>я</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,217.26872,298.05002)' v:mID='5810008.0'>
+     <title>Shape20</title>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'>
+      <text x='20.941656' y='0.0' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.142158)'>10</text>
+      <text x='4.735238' y='13.965251' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.142158)'>Декабря</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,155.5298,298.05002)' v:mID='5810009.0'>
+     <title>Shape5</title>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'>
+      <text x='19.614223' y='0.0' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.142158)'>8</text>
+      <text x='0.17163563' y='13.965251' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,13.142158)'>Декабря</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,59.498287,574.87683)' v:mID='5810010.0'>
+     <title>Shape56</title>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'>
+      <text x='4.4286814' y='0.0' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,12.69328)'>600,00</text>
+      <text x='33.551365' y='13.965251' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,12.69328)'>0</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,52.411682,532.3572)' v:mID='5810011.0'>
+     <title>Shape55</title>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'>
+      <text x='5.9381104' y='6.9826255' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,12.69328)'>500,000</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,60.74629,489.83746)' v:mID='5810012.0'>
+     <title>Shape54</title>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'>
+      <text x='4.4286814' y='0.0' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,12.69328)'>400,00</text>
+      <text x='33.551365' y='13.965251' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,12.69328)'>0</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,60.74629,447.3178)' v:mID='5810013.0'>
+     <title>Shape53</title>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'>
+      <text x='4.4286814' y='0.0' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,12.69328)'>300,00</text>
+      <text x='33.551365' y='13.965251' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,12.69328)'>0</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,59.498287,404.7981)' v:mID='5810014.0'>
+     <title>Shape50</title>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'>
+      <text x='4.4286814' y='0.0' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,12.69328)'>200,00</text>
+      <text x='33.551365' y='13.965251' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,12.69328)'>0</text>
+     </g>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,58.37936,362.2784)' v:mID='5810015.0'>
+     <title>Shape49</title>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'>
+      <text x='4.4286814' y='0.0' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,12.69328)'>100,00</text>
+      <text x='33.551365' y='13.965251' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,12.69328)'>0</text>
+     </g>
+    </g>
+    <g transform='matrix(-0.0,-1.0,1.0,0.0,314.6164,478.16226)' v:mID='5810016.0'>
+     <title>Sheet.5810016</title>
+     <path d='M0,0 L19.374803543,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,-1.0,-0.0,314.6164,515.38824)' v:mID='5810017.0'>
+     <title>Sheet.5810017</title>
+     <path d='M0,0 L26.170890808,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(-0.0,-1.0,1.0,0.0,246.5849,446.46387)' v:mID='5810018.0'>
+     <title>Sheet.5810018</title>
+     <path d='M0,0 L18.290649414,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,-1.0,-0.0,246.58493,453.01227)' v:mID='5810019.0'>
+     <title>Sheet.5810019</title>
+     <path d='M0,0 L20.515291214,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(-0.0,-1.0,1.0,0.0,178.5534,518.1732)' v:mID='5810020.0'>
+     <title>Sheet.5810020</title>
+     <path d='M0,0 L24.803157806,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,-1.0,-0.0,178.5534,540.1418)' v:mID='5810021.0'>
+     <title>Sheet.5810021</title>
+     <path d='M0,0 L24.094478607,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(-0.0,-1.0,1.0,0.0,382.6479,549.4678)' v:mID='5810022.0'>
+     <title>Sheet.5810022</title>
+     <path d='M0,0 L7.908661366,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,-1.0,-0.0,382.6479,557.14966)' v:mID='5810023.0'>
+     <title>Sheet.5810023</title>
+     <path d='M0,0 L21.25983429,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(-0.0,-1.0,1.0,0.0,451.24634,522.87164)' v:mID='5810024.0'>
+     <title>Sheet.5810024</title>
+     <path d='M0,0 L18.162992477,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(0.0,1.0,-1.0,-0.0,451.24634,532.95593)' v:mID='5810025.0'>
+     <title>Sheet.5810025</title>
+     <path d='M0,0 L14.27244091,0 ' stroke='#000000' stroke-width='0.75' stroke-linecap='round' fill='none'/>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,163.55199,329.2725)' v:mID='27.0'>
+     <title>Shape27</title>
+     <path d='M0,0 L28.346456528,0 L28.346456528,0 L28.346456528,147.798416138 L28.346456528,147.798416138 L0,147.798416138 L0,147.798416138 L0,0 ' stroke='none' stroke-width='0.0' fill='#10739E'  fill-rule='evenodd'/>
+     <g transform='matrix(1.0,0.0,0.0,1.0,-0.70866203,-0.70866394)'/>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,300.80554,329.27246)' v:mID='29.0'>
+     <title>Shape29</title>
+     <path d='M0,0 L28.346456528,0 L28.346456528,0 L28.346456528,112.365356445 L28.346456528,112.365356445 L0,112.365356445 L0,112.365356445 L0,0 ' stroke='none' stroke-width='0.0' fill='#10739E'  fill-rule='evenodd'/>
+     <g transform='matrix(1.0,0.0,0.0,1.0,-0.70866203,-0.7086601)'/>
+    </g>
+    <g transform='matrix(1.0,0.0,0.0,1.0,85.492,310.55676)' v:mID='5810027.0'>
+     <title>Shape51</title>
+     <g transform='matrix(1.0,0.0,0.0,1.0,0.0,0.0)'>
+      <text x='12.406401' y='6.9826255' class='TextStyle0' fill='#3399FF' opacity='1.0' transform='matrix(1.0,0.0,0.0,-1.0,0.0,12.69328)'>0</text>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <style type='text/css'><![CDATA[ .TextStyle0 {font-family:Arial Unicode MS;font-size:11.637709px;}.TextStyle1 {font-family:Arial Unicode MS;font-size:16.497639px;} ]]></style>
+</svg>

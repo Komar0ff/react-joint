@@ -1,8 +1,6 @@
-
 import {convertTextBlocks} from './convertTextBlocks.js'
 import {convertFigures} from './convertFigures.js'
 import {convertConnectors} from './convertConnectors.js'
-
 
 let cells = []
 

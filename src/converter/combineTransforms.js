@@ -17,3 +17,12 @@ export function combineTransforms(parentMatrix, componentMatrix) {
     f: b1 * e2 + d1 * f2 + f1,
   }
 }
+
+export function applyTransform(vector, matrix) {
+
+  const { a, b, c, d, e, f } = matrix
+  const {x, y, z} = vector
+
+
+  return {x: x*a+c*y+e, y: b*x+d*y+f, z: 1}
+}

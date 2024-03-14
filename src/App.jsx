@@ -4,12 +4,13 @@ import {convertSvgToAutograph} from './converter/index.js'
 import {scheme1} from './svg/scheme1.js'
 import {scheme2} from './svg/scheme2.js'
 import {scheme3} from './svg/scheme3.js'
+import {scheme4} from './svg/scheme4.js'
 
 import './App.scss';
 
 function App() {
 
-  const canvas: any = useRef(null);
+  const canvas = useRef(null);
   const [currentFile, setCurrentFile] = React.useState(scheme1)
 
   useEffect(() => {
@@ -60,9 +61,10 @@ function App() {
   return (
     <>
       <div className='menu'>
-        <button onClick={() => setCurrentFile(scheme1)}> scheme1.svg </button>
-        <button onClick={() => setCurrentFile(scheme2)}> scheme2.svg </button>
-        <button onClick={() => setCurrentFile(scheme3)}> scheme3.svg </button>
+        <button onClick={() => setCurrentFile(scheme1)}> scheme1 </button>
+        <button onClick={() => setCurrentFile(scheme2)}> scheme2 </button>
+        <button onClick={() => setCurrentFile(scheme3)}> scheme3 </button>
+        <button onClick={() => setCurrentFile(scheme4)}> scheme4 </button>
       </div>
       <div className="canvas" ref={canvas}/>
     </>
