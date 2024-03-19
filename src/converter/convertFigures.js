@@ -66,19 +66,17 @@ export function convertFigures(element, parentMatrix) {
     let mutateMatrix = combineTransforms(parentMatrix, componentMatrix)
 
 
-    const vecAll = getAllVec(mutateMatrix, GET_BOX)
+    const vectors = getAllVec(mutateMatrix, GET_BOX)
 
-    console.log('all vectors', vecAll)
+    console.log('all vectors', vectors)
 
     // width
-    let vecX1 = {x: GET_BOX.width, y: 0, z: 1}
-    let vecY1 = {x: 0, y: GET_BOX.height, z: 1}
+    let vecX1 = vectors.vecX1
+    let vecY1 = vectors.vecY1
 
     // height
-    let vecX2 = {x: GET_BOX.width, y: 0, z: 1}
-    let vecY2 = {x: 0, y: GET_BOX.height, z: 1}
-
-
+    let vecX2 = vectors.vecX2
+    let vecY2 = vectors.vecY2
 
     // width
     let newVecXW = applyTransform(vecX1, mutateMatrix)
